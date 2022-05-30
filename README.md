@@ -1,1 +1,3 @@
-# steel_project
+# Steel Project
+
+Project done in collaboration with @gustavo
