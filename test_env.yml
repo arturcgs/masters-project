@@ -1,0 +1,69 @@
+﻿name: teachopencadd
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.7
+  - pip
+  - jupyter
+  - jupyterlab>=3
+  - nglview>=3
+  - ipywidgets>=7.5
+  # Explicitly add numpy because of https://github.com/volkamerlab/teachopencadd/issues/150
+  - numpy
+  - scikit-learn
+  - tensorflow>=2.0
+  - h5py<3.0.0
+  - seaborn
+  - matplotlib-venn
+  # Remove jsonschema once this issue is fixed: https://github.com/Yelp/bravado/issues/478
+  - jsonschema<4.0.0
+  - bravado
+  - requests
+  - requests-cache
+  - redo
+  - suds-community
+  - beautifulsoup4
+  - chembl_webresource_client
+  - pypdb
+  - biopython<=1.77
+  - biopandas
+  - rdkit==2021.09.5
+  - openbabel
+  - opencadd
+  - biotite
+  - smina
+  - mdanalysis>=1.0.0
+  - mdtraj
+  - plip
+  # depends on openff-toolkit->ambertools -> not available on Windows yet!
+  # - openmmforcefields
+  - pdbfixer
+  - tqdm
+  - lxml
+  ## CI tests
+  # Workaround for https://github.com/computationalmodelling/nbval/issues/153
+  - pytest 5.*
+  - pytest-xdist
+  - pytest-cov
+  - nbval
+  - shyaml
+  # Workaround for https://github.com/sphinx-doc/sphinx/issues/10289
+  - jinja2==3.0.3
+  ## Docs
+  - sphinx
+  - sphinx-material
+  - nbsphinx
+  - recommonmark
+  - sphinx-autodoc-typehints
+  - sphinx-copybutton
+  - sphinx-gallery
+  - autodocsumm
+  ## temporary fix for rdkit on MacOS
+  - fontconfig==2.13.1
+  - pip:
+      - black-nb
+      - nbsphinx-link
+      - sphinxext-opengraph
+      # TeachOpenCADD itself
+      - ../
