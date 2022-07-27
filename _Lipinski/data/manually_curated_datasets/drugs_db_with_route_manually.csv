@@ -1,0 +1,563 @@
+index;active;DrugBank ID;Route_Unique
+0;troglitazone;DB00197;oral
+1;imiquimod;DB00724;topical
+2;anagrelide;DB00261;oral
+3;nelfinavir;DB00220;oral
+4;delavirdine;DB00705;oral
+5;tamsulosin;DB00706;oral
+6;toremifene;DB00539;oral
+7;tazarotene;DB00799;topical
+8;cerivastatin;DB00439;oral
+9;pramipexole;DB00413;oral
+10;bromfenac;DB00963;ophthalmic
+11;letrozole;DB01006;oral
+12;dolasetron;DB00757;oral
+13;arbutamine;DB01102;injection
+14;ropinirole;DB00268;oral
+15;fenoldopam;DB00800;injection
+16;quetiapine;DB01224;oral
+17;tiagabine;DB00906;oral
+18;irbesartan;DB01029;oral
+19;grepafloxacin;DB00365;oral
+20;clopidogrel;DB00758;oral
+21;sibutramine;DB01105;oral
+22;zolmitriptan;DB00315;nasal oral
+23;mangafodipir;DB06796;injection
+24;cefdinir;DB00535;oral
+25;fomepizole;DB01213;injection
+26;raloxifene;DB00481;oral
+27;alatrofloxacin;DB09335;injection
+28;trovafloxacin;DB00685;oral injection
+29;eprosartan;DB00876;oral
+30;repaglinide;DB00912;oral
+31;talc;DB09511;intrapleural
+32;emedastine;DB01084;oral
+33;tolcapone;DB00323;oral
+34;naratriptan;DB00952;oral
+35;montelukast;DB00471;oral
+36;loteprednol etabonate;DB14596;ophthalmic
+37;tolterodine;DB01036;oral
+38;sildenafil;DB00203;oral intravenous
+39;brinzolamide;DB01194;ophthalmic
+40;paricalcitol;DB00910;intravenous
+41;capecitabine;DB01101;oral
+42;tirofiban;DB00775;injection intravenous
+43;rifapentine;DB01201;oral
+44;rizatriptan;DB00953;oral
+45;thalidomide;DB01041;oral
+46;citalopram;DB00215;oral
+47;leflunomide;DB01097;oral
+48;efavirenz;DB00625;oral
+49;valrubicin;DB00385;intravesical
+50;sevelamer;DB00658;oral
+51;telmisartan;DB00966;oral
+52;abacavir;DB01048;oral
+53;modafinil;DB00745;oral
+54;celecoxib;DB00482;oral
+55;cilostazol;DB01166;oral
+56;alitretinoin;DB00523;topical
+57;amprenavir;DB00701;oral
+58;orlistat;DB01083;oral
+59;rofecoxib;DB00533;oral
+60;rosiglitazone;DB00412;oral
+61;doxercalciferol;DB06410;injection oral
+62;ketotifen;DB00920;ophthalmic
+63;pioglitazone;DB01132;oral
+64;zanamivir;DB00558;inhalation
+65;ganirelix;DB06785;injection
+66;temozolomide;DB00853;oral intravenous
+67;zaleplon;DB00962;oral
+68;rapacuronium;DB04834;injection
+69;rabeprazole;DB01129;oral
+70;epirubicin;DB00445;injection
+71;sirolimus;DB00877;oral intravenous
+72;dofetilide;DB00204;oral
+73;entacapone;DB00494;oral
+74;exemestane;DB00990;oral
+75;oseltamivir;DB00198;oral
+76;levetiracetam;DB01202;oral intravenous
+77;aminolevulinic acid;DB00855;oral topical
+78;gadoversetamide;DB00538;injection
+79;moxifloxacin;DB00218;ophthalmic intravenous
+80;dexmedetomidine;DB00633;injection intravenous
+81;gatifloxacin;DB01044;ophthalmic
+82;nitric oxide;DB00435;inhalation
+83;bexarotene;DB00307;oral topical
+84;cevimeline;DB00185;oral
+85;oxcarbazepine;DB00776;oral
+86;pantoprazole;DB00213;oral intravenous
+87;alosetron;DB00969;oral
+88;zonisamide;DB00909;oral
+89;verteporfin;DB00460;injection
+90;meloxicam;DB00814;oral intravenous
+91;linezolid;DB00601;oral intravenous
+92;rivastigmine;DB00989;transdermal
+93;argatroban;DB00278;injection intravenous
+94;balsalazide;DB01014;oral
+95;docosanol;DB00632;topical
+96;cetrorelix;DB00050;injection
+97;arsenic trioxide;DB01169;injection
+98;mifepristone;DB00834;oral
+99;bivalirudin;DB00006;intravenous
+100;nateglinide;DB00731;oral
+101;caspofungin;DB00520;intravenous
+102;ziprasidone;DB00246;intramuscular oral
+103;formoterol;DB00983;inhalation
+104;galantamine;DB00674;oral
+105;travoprost;DB00287;ophthalmic
+106;bimatoprost;DB00905;ophthalmic topical
+107;almotriptan;DB00918;oral
+108;imatinib;DB00619;oral
+109;zoledronic acid;DB00399;intravenous
+110;tenofovir disoproxil;DB00300;oral
+111;frovatriptan;DB00998;oral
+112;valdecoxib;DB00580;oral
+113;dutasteride;DB01126;oral
+114;bosentan;DB00559;oral
+115;ertapenem;DB00303;intramuscular intravenous
+116;fondaparinux;DB00569;subcutaneous
+117;pimecrolimus;DB00337;topical
+118;desloratadine;DB00967;oral
+119;nitisinone;DB00348;oral
+120;fulvestrant;DB00947;intramuscular
+121;treprostinil;DB00374;injection subcutaneous inhalation
+122;voriconazole;DB00582;oral intravenous
+123;tegaserod;DB01079;oral
+125;adefovir dipivoxil;DB00718;oral
+126;eplerenone;DB00700;oral
+127;ezetimibe;DB00973;oral
+128;aripiprazole;DB01238;oral intramuscular
+129;nitazoxanide;DB00507;oral
+130;atomoxetine;DB00289;oral
+131;eletriptan;DB00216;oral
+132;aprepitant;DB00673;oral intravenous
+133;gemifloxacin;DB01155;oral
+134;gefitinib;DB00317;oral
+135;bortezomib;DB00188;intravenous subcutaneous
+136;alfuzosin;DB00346;oral
+137;atazanavir;DB01072;oral
+138;emtricitabine;DB00879;oral
+139;palonosetron;DB00377;injection oral
+140;miglustat;DB00419;oral
+141;rosuvastatin;DB01098;oral
+142;vardenafil;DB00862;oral
+143;daptomycin;DB00080;intravenous
+144;prussian blue;DB06783;oral
+145;epinastine;DB00751;ophthalmic
+146;memantine;DB01043;oral
+147;tadalafil;DB00820;oral
+148;abarelix;DB00106;intramuscular
+149;sertaconazole;DB01153;topical
+150;tiotropium;DB01409;inhalation
+151;pemetrexed;DB00642;intravenous
+152;cinacalcet;DB01012;oral
+153;telithromycin;DB00976;oral
+154;apomorphine;DB00714;subcutaneous sublingual
+155;tinidazole;DB00911;oral
+156;azacitidine;DB00928;intravenous subcutaneous oral
+157;rifaximin;DB01220;oral
+158;trospium;DB00209;oral
+159;l-glutamine;DB00130;oral
+160;acamprosate;DB00659;oral
+161;duloxetine;DB00476;oral
+162;erlotinib;DB00530;oral
+163;solifenacin;DB01591;oral
+164;eszopiclone;DB00402;oral
+165;darifenacin;DB00496;oral
+166;ziconotide;DB06283;intrathecal
+167;iloprost;DB01088;inhalation
+168;pregabalin;DB00230;oral
+169;pramlintide;DB01278;subcutaneous
+170;micafungin;DB01141;intravenous
+171;entecavir;DB00442;oral
+172;tigecycline;DB00560;intravenous
+173;tipranavir;DB00932;oral
+174;ramelteon;DB00980;oral
+175;nepafenac;DB06802;ophthalmic
+176;nelarabine;DB01280;intravenous
+177;deferasirox;DB01609;oral
+178;sorafenib;DB00398;oral
+179;lenalidomide;DB00480;oral
+180;conivaptan;DB00872;intravenous
+181;sunitinib;DB01268;oral
+182;ranolazine;DB00243;oral
+183;lubiprostone;DB01046;oral
+184;anidulafungin;DB00362;intravenous
+185;decitabine;DB01262;intravenous
+186;varenicline;DB01273;nasal
+187;rasagiline;DB01367;oral
+188;darunavir;DB01264;oral
+189;dasatinib;DB01254;oral
+190;posaconazole;DB01263;oral intravenous
+191;vorinostat;DB02546;oral
+192;sitagliptin;DB01261;oral
+193;ciclesonide;DB01410;inhalation nasal
+194;telbivudine;DB01265;oral
+195;paliperidone;DB01267;oral
+196;lisdexamfetamine;DB01255;oral
+197;aliskiren;DB09026;oral
+198;lapatinib;DB01259;oral
+199;retapamulin;DB01256;topical
+200;rotigotine;DB05271;transdermal
+201;temsirolimus;DB06287;intravenous
+202;ambrisentan;DB06403;oral
+203;maraviroc;DB04835;oral
+204;lanreotide;DB06791;subcutaneous
+205;doripenem;DB06211;injection
+206;raltegravir;DB06817;oral
+207;ixabepilone;DB04845;intravenous
+208;nilotinib;DB04868;oral
+209;sapropterin;DB00360;oral
+210;nebivolol;DB04861;oral
+211;etravirine;DB06414;oral
+212;desvenlafaxine;DB06700;oral
+213;bendamustine;DB06769;injection
+214;regadenoson;DB06213;intravenous
+215;methylnaltrexone;DB06800;subcutaneous oral
+216;alvimopan;DB06274;oral
+217;difluprednate;DB06781;ophthalmic
+218;clevidipine;DB04920;intravenous
+219;tetrabenazine;DB04844;oral
+220;silodosin;DB06207;oral
+221;lacosamide;DB06218;oral intravenous
+222;fesoterodine;DB06702;oral
+223;rufinamide;DB06201;oral
+224;eltrombopag;DB06210;oral
+225;tapentadol;DB06204;oral
+226;fospropofol;DB06716;injection
+227;plerixafor;DB06809;subcutaneous
+228;degarelix;DB06699;subcutaneous
+229;milnacipran;DB04896;oral
+230;febuxostat;DB04854;oral
+231;everolimus;DB01590;oral
+232;benzyl alcohol;DB06770;topical
+233;iloperidone;DB04946;oral
+234;tolvaptan;DB06212;oral
+235;besifloxacin;DB06771;ophthalmic
+236;dronedarone;DB04855;oral
+237;prasugrel;DB06209;oral
+238;saxagliptin;DB06335;oral
+239;pitavastatin;DB08860;oral
+240;asenapine;DB06216;transdermal sublingual
+241;vigabatrin;DB01080;oral
+242;bepotastine;DB04890;ophthalmic
+243;telavancin;DB06402;intravenous
+244;pralatrexate;DB06813;intravenous
+245;pazopanib;DB06589;oral
+246;romidepsin;DB06176;intravenous
+247;capsaicin;DB06774;topical
+248;dalfampridine;DB06637;oral
+249;carglumic acid;DB06775;oral
+250;polidocanol;DB06811;intravenous
+251;cabazitaxel;DB06772;intravenous
+252;alcaftadine;DB06766;ophthalmic
+253;ulipristal;DB08867;oral
+254;fingolimod;DB08868;oral
+255;dabigatran etexilate;DB06695;oral
+256;lurasidone;DB08815;oral
+257;ceftaroline fosamil;DB06590;intravenous
+258;eribulin;DB08871;intravenous
+259;spinosad;DB08823;topical
+260;vilazodone;DB06684;oral
+261;azilsartan medoxomil;DB08822;oral
+262;roflumilast;DB01656;oral
+263;gadobutrol;DB06703;intravenous
+264;gabapentin enacarbil;DB08872;oral
+265;abiraterone;DB05812;oral
+266;linagliptin;DB08882;oral
+267;boceprevir;DB08873;oral
+268;rilpivirine;DB08864;oral
+269;telaprevir;DB05521;oral
+270;fidaxomicin;DB08874;oral
+271;ezogabine;DB04953;oral
+272;indacaterol;DB05039;oral inhalation
+273;rivaroxaban;DB06228;oral
+274;ticagrelor;DB08816;oral
+275;vemurafenib;DB08881;oral
+276;icatibant;DB06196;subcutaneous
+277;crizotinib;DB08865;oral
+278;deferiprone;DB08826;oral
+279;clobazam;DB00349;oral
+280;ruxolitinib;DB08877;oral topical
+281;ingenol mebutate;DB05013;topical
+282;axitinib;DB06626;oral
+283;vismodegib;DB08828;oral
+284;ivacaftor;DB08820;oral
+285;tafluprost;DB08819;ophthalmic
+286;avanafil;DB06237;oral
+287;lorcaserin;DB04871;oral
+288;mirabegron;DB08893;oral
+289;carfilzomib;DB08889;intravenous
+290;aclidinium;DB08897;inhalation
+291;linaclotide;DB08890;oral
+292;enzalutamide;DB08899;oral
+293;bosutinib;DB06616;oral
+294;teriflunomide;DB08880;oral
+295;regorafenib;DB08896;oral
+296;perampanel;DB08883;oral
+297;tofacitinib;DB08895;oral
+298;cabozantinib;DB08875;oral
+299;pasireotide;DB06663;instramuscular
+300;ponatinib;DB08901;oral
+301;lomitapide;DB08827;oral
+302;apixaban;DB06605;oral
+303;bedaquiline;DB08903;oral
+304;alogliptin;DB06203;oral
+305;mipomersen;DB05528;subcutaneous
+306;pomalidomide;DB08910;oral
+307;ospemifene;DB04938;oral
+308;canagliflozin;DB08907;oral
+309;dabrafenib;DB08912;oral
+310;trametinib;DB08911;oral
+311;afatinib;DB08916;oral
+312;dolutegravir;DB08930;oral
+313;vortioxetine;DB09068;oral
+314;riociguat;DB08931;oral
+315;macitentan;DB08932;oral
+316;eslicarbazepine;DB14575;oral
+317;ibrutinib;DB09053;oral
+318;luliconazole;DB08933;topical
+319;simeprevir;DB06290;oral
+320;sofosbuvir;DB08934;oral
+321;dapagliflozin;DB06292;oral
+322;tasimelteon;DB09071;oral
+323;droxidopa;DB06262;oral
+324;miltefosine;DB09031;oral
+325;apremilast;DB05676;oral
+326;ceritinib;DB09063;oral
+327;vorapaxar;DB09030;oral
+328;efinaconazole;DB09040;topical
+329;tedizolid;DB14569;oral intravenous
+330;belinostat;DB05015;intravenous
+331;tavaborole;DB09041;topical
+332;idelalisib;DB09054;oral
+333;olodaterol;DB09080;inhalation
+334;empagliflozin;DB09038;oral
+335;oritavancin;DB04911;intravenous
+336;suvorexant;DB09034;oral
+337;eliglustat;DB09039;oral
+338;naloxegol;DB09049;oral
+339;pirfenidone;DB04951;oral
+340;nintedanib;DB09079;oral
+341;finafloxacin;DB09047;auricular
+342;olaparib;DB09074;oral
+343;peramivir;DB06614;intravenous
+344;edoxaban;DB09075;oral
+345;palbociclib;DB09073;oral
+346;lenvatinib;DB09078;oral
+347;panobinostat;DB06603;oral
+348;isavuconazonium;DB06636;oral intravenous
+349;cholic acid;DB02659;oral
+350;ivabradine;DB09083;oral
+351;deoxycholic acid;DB03619;subcutaneous
+352;eluxadoline;DB09272;oral
+353;cangrelor;DB06441;intravenous
+354;brexpiprazole;DB09128;oral
+355;sonidegib;DB09143;oral
+356;daclatasvir;DB09102;oral
+357;flibanserin;DB04908;oral
+358;rolapitant;DB09291;oral
+359;uridine triacetate;DB09144;oral
+360;cariprazine;DB06016;oral
+361;aripiprazole lauroxil;DB14185;intramuscular
+362;trabectedin;DB05109;intravenous
+363;cobimetinib;DB05239;oral
+364;osimertinib;DB09330;oral
+365;ixazomib;DB09570;oral
+366;alectinib;DB11363;oral
+367;sugammadex;DB06206;intravenous
+368;selexipag;DB11362;oral intravenous
+369;lesinurad;DB11560;oral
+370;brivaracetam;DB05541;oral intravenous
+371;venetoclax;DB11581;oral
+372;pimavanserin;DB05316;oral
+373;obeticholic acid;DB05990;oral
+374;lifitegrast;DB11611;ophthalmic
+375;crisaborole;DB05219;topical
+376;rucaparib;DB12332;oral
+377;plecanatide;DB13170;oral
+378;etelcalcetide;DB12865;intravenous
+379;deflazacort;DB11921;oral
+380;telotristat ethyl;DB12095;oral
+381;ribociclib;DB11730;oral
+382;safinamide;DB06654;oral
+383;naldemedine;DB11691;oral
+384;niraparib;DB11793;oral
+385;deutetrabenazine;DB12161;oral
+386;valbenazine;DB11915;oral
+387;midostaurin;DB06595;oral
+388;brigatinib;DB12267;oral
+389;edaravone;DB12243;intravenous
+390;delafloxacin;DB11943;oral injection
+391;betrixaban;DB12364;oral
+392;neratinib;DB11828;oral
+393;enasidenib;DB13874;oral
+394;benznidazole;DB11989;oral
+395;copanlisib;DB12483;intravenous
+396;secnidazole;DB12834;oral
+397;abemaciclib;DB12001;oral
+398;acalabrutinib;DB11703;oral
+399;latanoprostene bunod;DB11660;ophthalmic
+400;letermovir;DB12070;oral intravenous
+401;semaglutide;DB13928;subcutaneous oral
+402;ozenoxacin;DB12924;topical
+403;netarsudil;DB13931;ophthalmic
+404;ertugliflozin;DB11827;oral
+405;macimorelin;DB13074;oral
+406;apalutamide;DB11901;oral
+407;fostamatinib;DB12010;oral
+408;lofexidine;DB04948;oral
+409;avatrombopag;DB11995;oral
+410;baricitinib;DB11817;oral
+411;moxidectin;DB11431;oral
+412;plazomicin;DB12615;intravenous
+413;cannabidiol;DB09061;oral
+414;encorafenib;DB11718;oral
+415;binimetinib;DB11967;oral
+416;tecovirimat;DB12020;oral
+417;tafenoquine;DB06608;oral
+418;ivosidenib;DB14568;oral
+419;elagolix;DB11979;oral
+420;lusutrombopag;DB13125;oral
+421;migalastat;DB05018;oral
+422;stiripentol;DB09118;oral
+423;eravacycline;DB12329;intravenous
+424;doravirine;DB12301;oral
+425;duvelisib;DB11952;oral
+426;dacomitinib;DB11963;oral
+427;sarecycline;DB12035;oral
+428;omadacycline;DB12455;oral intravenous
+429;talazoparib;DB11760;oral
+430;baloxavir marboxil;DB13997;oral
+431;lorlatinib;DB12130;oral
+432;revefenacin;DB11855;inhalation
+433;rifamycin;DB11753;oral
+434;glasdegib;DB11978;oral
+435;larotrectinib;DB14723;oral
+436;amifampridine;DB11640;oral
+437;gilteritinib;DB12141;oral
+438;prucalopride;DB06480;oral
+439;triclabendazole;DB12245;oral
+440;brexanolone;DB11859;intravenous
+441;solriamfetol;DB14754;oral
+442;siponimod;DB12371;oral
+443;erdafitinib;DB12147;oral
+444;alpelisib;DB12015;oral
+445;bremelanotide;DB11653;subcutaneous
+446;selinexor;DB11942;oral
+447;ferric maltol;DB15598;oral
+448;darolutamide;DB12941;oral
+449;pexidartinib;DB12978;oral
+450;pitolisant;DB11642;oral
+451;pretomanid;DB05154;oral
+452;entrectinib;DB11986;oral
+453;fedratinib;DB12500;oral
+454;upadacitinib;DB15091;oral
+455;lefamulin;DB12825;oral intravenous
+456;istradefylline;DB11757;oral
+457;tenapanor;DB11761;oral
+458;trifarotene;DB12808;topical
+459;afamelanotide;DB04931;subcutaneous
+460;lasmiditan;DB11732;oral
+461;zanubrutinib;DB15035;oral
+462;cefiderocol;DB14879;intravenous
+463;cenobamate;DB06119;oral
+464;voxelotor;DB14975;oral
+465;lumateperone;DB06077;oral
+466;lemborexant;DB11951;oral
+467;ubrogepant;DB15328;oral
+468;avapritinib;DB15233;oral
+469;tazemetostat;DB12887;oral
+470;lactitol;DB12942;oral
+471;bempedoic acid;DB11936;oral
+472;amisulpride;DB06288;intravenous
+473;rimegepant;DB12457;oral
+474;osilodrostat;DB11837;oral
+475;ozanimod;DB12612;oral
+476;selumetinib;DB11689;oral
+477;pemigatinib;DB15102;oral
+478;tucatinib;DB11652;oral
+479;opicapone;DB11632;oral
+480;capmatinib;DB11791;oral
+481;selpercatinib;DB15685;oral
+482;ripretinib;DB14840;oral
+483;artesunate;DB09274;intravenous
+484;lurbinectedin;DB12674;intravenous
+485;triheptanoin;DB11677;oral
+486;remimazolam;DB12404;injection
+487;fostemsavir;DB11796;oral
+488;abametapir;DB11932;topical
+489;nifurtimox;DB11820;oral
+490;risdiplam;DB15305;oral
+491;oliceridine;DB14881;intravenous
+492;clascoterone;DB12499;topical
+493;pralsetinib;DB15822;oral
+494;remdesivir;DB14761;intravenous
+495;lonafarnib;DB06448;oral
+496;setmelanotide;DB11700;subcutaneous
+497;berotralstat;DB15982;oral
+498;tirbanibulin;DB06137;topical
+499;relugolix;DB11853;oral
+500;vibegron;DB14895;oral
+501;vericiguat;DB15456;oral
+502;voclosporin;DB11693;oral
+503;tepotinib;DB15133;oral
+504;umbralisib;DB14989;oral
+505;trilaciclib;DB15442;intravenous
+506;fosdenopterin;DB16628;intravenous
+507;melphalan flufenamide;DB16627;injection
+508;tivozanib;DB11800;oral
+509;ponesimod;DB12016;oral
+510;viloxazine;DB09185;oral
+511;sotorasib;DB15569;oral
+512;infigratinib;DB11886;oral
+513;ibrexafungerp;DB12471;oral
+514;finerenone;DB16165;oral
+515;fexinidazole;DB12265;oral
+516;belumosudil;DB16703;oral
+517;odevixibat;DB16261;oral
+518;belzutifan;DB15463;oral
+519;difelikefalin;DB11938;intravenous
+520;mobocertinib;DB16390;oral
+521;atogepant;DB16098;oral
+522;maralixibat;DB16226;oral
+523;avacopan;DB15011;oral
+524;asciminib;DB12597;oral
+525;maribavir;DB06234;oral
+526;pafolacianine;DB15413;intravenous
+527;tiludronate;DB01133;oral
+528;ardeparin;DB00407;injection
+529;mibefradil;DB01388;oral
+530;lepirudin;DB00001;injection
+531;risedronate;DB00884;oral
+532;eptifibatide;DB00063;injection
+533;fomivirsen;DB06759;injection intraocular
+534;ferric gluconate complex;DB09517;injection
+535;pemirolast potassium;DB00885;ophtalmic
+538;triptorelin pamoate;DB06825;intramuscular
+540;unoprostone isopropyl;DBSALT001760;ophtalmic
+541;perflutren;DB00556;intravenous
+543;cefditoren pivoxil;DBSALT001811;oral
+544;olmesartan medoxomil;DB00275;oral
+545;oxybate;DB09072;oral
+546;icodextrin;DB00702;intraperitoneal
+547;enfuvirtide;DB00109;subcutaneous
+549;pentetate;DB06806;injection
+550;pentetate zinc;DB14007;injection inhalation
+551;lanthanum carbonate hydrate;DB06792;oral
+552;gadobenate dimeglumine;DB00743;intravenous
+553;trypan blue;DB09158;ophthalmic
+554;pegaptanib;DB04895;ophtalmic
+555;clofarbine;DB00631;injection
+558;fosaprepitant dimeglumine;DB06717;intravenous
+559;gadoxetate;DB08884;intravenous
+564;omacetaxine;DB04865;subcutaneous
+567;gadoterate meglumine;DB09132;intravenous
+568;dimethyl fumarate;DB08908;oral
+569;dalbavancin;DB06219;intravenous
+575;abaloparatide;DB05084;subcutaneous
+576;angiotensin II;DB11842;injection
+580;inotersen;DB14713;subcutaneous
+581;tafamidis meglumine;DB11644;oral
+589;dasiglucagon;DB15226;subcutaneous
+591;vosoritide;DB11928;subcutaneous
