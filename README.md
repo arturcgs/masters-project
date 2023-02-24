@@ -1,3 +1,3 @@
-# Shared Side Projects
+# Masters Projects!
 
-This repository is dedicated to files for side projects done in collaboration with @luxirio and @arturcgs
+This repository is dedicated to code and files for the masters project, done in collaboration by @luxirio and @arturcgs.
