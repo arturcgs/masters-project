@@ -1,0 +1,356 @@
+<mxfile host="65bd71144e">
+    <diagram id="P9NKmUXcOL3_bSMbLXvb" name="Page-1">
+        <mxGraphModel dx="4014" dy="1262" grid="1" gridSize="30" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="2100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="24" value="" style="edgeStyle=none;html=1;fontStyle=0;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;" parent="1" source="17" target="21" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="1 - Fetching the data from ChEMBL" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="60" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;" parent="1" source="21" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="450" y="90" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="Select only &lt;b style=&quot;font-size: 13px;&quot;&gt;SMILES&lt;/b&gt; from structure dictionary" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="60" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;" edge="1" parent="1" source="31" target="34">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="2 - Pre-cleaning&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="286" width="120" height="63" as="geometry"/>
+                </mxCell>
+                <mxCell id="141" style="edgeStyle=orthogonalEdgeStyle;html=1;dashed=1;dashPattern=8 8;fontSize=13;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="33" target="31">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="541.5" y="180" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="542" y="180"/>
+                            <mxPoint x="90" y="180"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="33" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Save it:&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#ffb366&quot;&gt;RAW_approved_drugs.csv&amp;nbsp;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;(4194, 35)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="453" y="60" width="177" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="34" target="65">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Select only relevant variables&lt;br style=&quot;font-size: 13px;&quot;&gt;(4194, 14)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="286" width="120" height="63" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" style="edgeStyle=none;curved=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="65" target="67">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" style="edgeStyle=none;curved=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="65" target="70">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="Basic filters:&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&amp;nbsp;- molecule type = small molecule&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&amp;nbsp;- inorganic and polymer = 0&lt;/span&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&amp;nbsp;- only therapeutic molecules&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&amp;nbsp;- remove indication classes like radioactive, diluent, gas, flavor...&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;(2952, 14)&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="436.5" y="214.75" width="210" height="205.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" style="edgeStyle=none;curved=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="67" target="75">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="Molecule containing SMILES&lt;br style=&quot;font-size: 13px;&quot;&gt;(2903,14)" style="rounded=0;whiteSpace=wrap;html=1;flipV=0;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="744" y="228.22" width="120" height="63" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" style="edgeStyle=none;curved=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="70" target="81">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="SMILES not found entries&lt;br style=&quot;font-size: 13px;&quot;&gt;(49,14)" style="rounded=0;whiteSpace=wrap;html=1;flipV=0;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="744" y="362.47" width="120" height="63" as="geometry"/>
+                </mxCell>
+                <mxCell id="93" style="edgeStyle=none;curved=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="75" target="90">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="Filter MW&amp;nbsp;&lt;span class=&quot;box&quot; style=&quot;font-size: 13px;&quot;&gt;≤&amp;nbsp;&lt;/span&gt;75 Da&lt;br style=&quot;font-size: 13px;&quot;&gt;(2897,14)" style="rounded=0;whiteSpace=wrap;html=1;flipV=0;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="944" y="228.22" width="120" height="63" as="geometry"/>
+                </mxCell>
+                <mxCell id="98" style="edgeStyle=none;curved=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="81" target="96">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="SMILES not found&lt;br style=&quot;font-size: 13px;&quot;&gt;+&lt;br style=&quot;font-size: 13px;&quot;&gt;Approval Year not found&lt;br style=&quot;font-size: 13px;&quot;&gt;(540,14)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;flipV=0;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="1139" y="359.6" width="150" height="68.75" as="geometry"/>
+                </mxCell>
+                <mxCell id="110" style="edgeStyle=none;curved=1;html=1;fontSize=13;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="83" target="103">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" value="Only entries with&lt;br style=&quot;font-size: 13px;&quot;&gt;approval year&lt;br style=&quot;font-size: 13px;&quot;&gt;(2403, 14)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;flipV=0;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="1494" y="229.72" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" value="Year not found" style="edgeStyle=none;curved=1;html=1;fontSize=13;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="90" target="81">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="Year found" style="edgeStyle=none;curved=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="90" target="83">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="90" value="Separate&lt;br style=&quot;font-size: 13px;&quot;&gt;Approval&lt;br style=&quot;font-size: 13px;&quot;&gt;Year" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;flipV=0;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="1157.75" y="203.72" width="112.5" height="109" as="geometry"/>
+                </mxCell>
+                <mxCell id="156" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="96" target="152">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="96" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Save it:&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#ffb366&quot;&gt;manual_curation_smiles_year.csv&lt;br style=&quot;font-size: 13px;&quot;&gt;(540, 14)&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="1109" y="489" width="210" height="74.62" as="geometry"/>
+                </mxCell>
+                <mxCell id="107" value="With Fragments" style="edgeStyle=none;curved=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="103" target="105">
+                    <mxGeometry x="-0.1959" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="103" value="Separate&lt;br style=&quot;font-size: 13px;&quot;&gt;Fragments" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;flipV=0;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="1501.5" y="362.47" width="105" height="99.4" as="geometry"/>
+                </mxCell>
+                <mxCell id="115" style="edgeStyle=none;curved=1;html=1;fontSize=13;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="105" target="111">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="105" value="(877, 14)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;flipV=0;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="1494" y="563.62" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="116" value="Yes (Manual)" style="edgeStyle=none;curved=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="111" target="113">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="111" value="Separate&lt;br style=&quot;font-size: 13px;&quot;&gt;Large&lt;br style=&quot;font-size: 13px;&quot;&gt;Salts" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;flipV=0;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="1501.5" y="711.39" width="105" height="99.4" as="geometry"/>
+                </mxCell>
+                <mxCell id="120" style="edgeStyle=none;curved=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="113" target="119">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1157.75" y="748.7" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1194" y="759"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="127" value="Remove index from main" style="edgeStyle=none;curved=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="113" target="114">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1314" y="849" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1314" y="879"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="113" value="Molecules to do&lt;br style=&quot;font-size: 13px;&quot;&gt;manual curation&lt;br style=&quot;font-size: 13px;&quot;&gt;(359,14)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;flipV=0;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="1254" y="731.09" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="128" style="edgeStyle=none;curved=1;html=1;fontSize=13;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="114" target="129">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1170" y="999" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="136" style="edgeStyle=orthogonalEdgeStyle;html=1;fontSize=13;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="83" target="114">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1674" y="260"/>
+                            <mxPoint x="1674" y="999"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="114" value="Main dataframe&lt;br style=&quot;font-size: 13px;&quot;&gt;(not manual curation)&lt;br style=&quot;font-size: 13px;&quot;&gt;(2047, 14)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;flipV=0;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="1254" y="969" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="140" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;dashed=1;dashPattern=8 8;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="119" target="138">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="119" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Save it:&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#ffb366&quot;&gt;manual_curation_fragments.csv&lt;br style=&quot;font-size: 13px;&quot;&gt;(359, 14)&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="719.55" y="723.78" width="240.45" height="74.62" as="geometry"/>
+                </mxCell>
+                <mxCell id="174" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontSize=13;fillColor=#e3c800;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="129" target="158">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="833" y="1140"/>
+                            <mxPoint x="479" y="1140"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="129" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Save it:&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#ffb366&quot;&gt;main_df.csv&lt;br style=&quot;font-size: 13px;&quot;&gt;(2047, 14)&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipV=0;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="721.75" y="961.69" width="238.25" height="74.62" as="geometry"/>
+                </mxCell>
+                <mxCell id="147" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="138" target="144">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="138" value="3 - Cleaning small&lt;br style=&quot;font-size: 13px;&quot;&gt;fragments&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="1200" width="120" height="63" as="geometry"/>
+                </mxCell>
+                <mxCell id="148" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="144" target="145">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="144" value="Visual inspection of each substructure&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 13px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Select%20only%20relevant%20variables%26lt%3Bbr%26gt%3B(4194%2C%2014)%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22240%22%20y%3D%22286%22%20width%3D%22120%22%20height%3D%2263%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="251.5" y="1195" width="185" height="73" as="geometry"/>
+                </mxCell>
+                <mxCell id="149" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="145" target="146">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="145" value="Remove unwanted&lt;br style=&quot;font-size: 13px;&quot;&gt;structures" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="526.5" y="1200" width="120" height="63" as="geometry"/>
+                </mxCell>
+                <mxCell id="171" style="edgeStyle=orthogonalEdgeStyle;html=1;dashed=1;fontSize=13;fillColor=#e3c800;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="146" target="158">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="838" y="1320"/>
+                            <mxPoint x="479" y="1320"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="146" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Save it:&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#ffb366&quot;&gt;curated_fragments.csv&amp;nbsp;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;(341, 14)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="749.4300000000001" y="1202" width="177" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="155" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="152" target="154">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="152" value="Manual curation process" style="rounded=0;whiteSpace=wrap;html=1;flipV=0;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="881" y="494.81" width="120" height="63" as="geometry"/>
+                </mxCell>
+                <mxCell id="173" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontSize=13;fillColor=#e3c800;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="154" target="158">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="675" y="1140"/>
+                            <mxPoint x="479" y="1140"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="154" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#ffb366&quot;&gt;curated_smiles_year.csv&lt;br style=&quot;font-size: 13px;&quot;&gt;(436, 14)&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;flipV=0;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="489" width="210" height="74.62" as="geometry"/>
+                </mxCell>
+                <mxCell id="160" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="157" target="158">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="157" value="4 - Merge datasets" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="1410" width="120" height="63" as="geometry"/>
+                </mxCell>
+                <mxCell id="176" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=13;strokeColor=#FFFFFF;" edge="1" parent="1" source="158" target="175">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="668" y="1442"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="158" value="Merged dataset:&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;- main_df (2047, 14)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;- curated_fragments(341,14)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;- curated_smiles_year (436,14)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="374" y="1389.75" width="210" height="103.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="180" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;fontSize=13;dashed=1;strokeColor=#FFFFFF;" edge="1" parent="1" source="175" target="177">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="841" y="1620"/>
+                            <mxPoint x="120" y="1620"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="175" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Save it:&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#ffb366&quot;&gt;concatenated_dataset.csv&amp;nbsp;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;(2824, 14)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;fillColor=#18141D;" vertex="1" parent="1">
+                    <mxGeometry x="752.2700000000001" y="1411" width="177" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="197" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=13;strokeColor=#FFFFFF;" edge="1" parent="1" source="177" target="181">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="177" value="5 - Removing repeated molecules" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="1710" width="120" height="63" as="geometry"/>
+                </mxCell>
+                <mxCell id="196" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;fontSize=13;strokeColor=#FFFFFF;" edge="1" parent="1" source="181" target="182">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="181" value="Removing unwanted structures (manual)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="284" y="1711" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="195" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=13;strokeColor=#FFFFFF;" edge="1" parent="1" source="182" target="183">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="182" value="Keeping the correct fragment" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#18141D;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="481.5" y="1712" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="194" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=13;strokeColor=#FFFFFF;" edge="1" parent="1" source="183" target="185">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="183" value="Neutralize and Standardize SMILES" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#18141D;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="690" y="1712" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="188" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=13;strokeColor=#FFFFFF;" edge="1" parent="1" source="185" target="186">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="190" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=13;strokeColor=#FFFFFF;" edge="1" parent="1" source="185" target="187">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="185" value="Separate&lt;br style=&quot;font-size: 13px;&quot;&gt;Unique&lt;br style=&quot;font-size: 13px;&quot;&gt;Molecules" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="902" y="1693" width="99" height="97" as="geometry"/>
+                </mxCell>
+                <mxCell id="200" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;fontSize=13;strokeColor=#FFFFFF;" edge="1" parent="1" source="186" target="199">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="186" value="Uniques&lt;br style=&quot;font-size: 13px;&quot;&gt;(1087,17)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="891.5" y="1890" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="192" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=13;strokeColor=#FFFFFF;" edge="1" parent="1" source="187" target="191">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="187" value="Repeated molecules&lt;br style=&quot;font-size: 13px;&quot;&gt;(1731,17)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="1110" y="1711" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="198" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=13;strokeColor=#FFFFFF;" edge="1" parent="1" source="191" target="193">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="191" value="Criteria for keeping information of removed repeated molecules&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- pref_name -&amp;gt; Smallest Name (no salt)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- smiles -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- molecule_chembl_id -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- first_approval&amp;nbsp; -&amp;gt; Oldest Year&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- molecule_type -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- indication_class -&amp;gt; Biggest Description&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- polymer_flag -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- withdrawn_flag -&amp;gt; Any True (only false if all are false)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- inorganic_flag -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- therapeutic_flag -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- natural product -&amp;gt; Any True (only false if all are false)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- oral -&amp;gt; Any True (only false if all are false)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- parenteral -&amp;gt; Any True (only false if all are false)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- topical -&amp;gt; Any True (only false if all are false)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- mw -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- correct_fragment -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- ROMol -&amp;gt; Any Entry&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="1319" y="1572.3100000000002" width="331" height="339.37" as="geometry"/>
+                </mxCell>
+                <mxCell id="201" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;fontSize=13;strokeColor=#FFFFFF;" edge="1" parent="1" source="193" target="199">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="193" value="Repeated cleaned&lt;br style=&quot;font-size: 13px;&quot;&gt;(821,17)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="1424.5" y="2040" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="202" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;fontSize=13;strokeColor=#FFFFFF;" edge="1" parent="1" source="199">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1194" y="2220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="199" value="Concatenated dataset (1908,17)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="1134" y="2040" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="206" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;fontSize=13;strokeColor=#FFFFFF;" edge="1" parent="1" source="203" target="204">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="203" value="Organizing columns" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="1134" y="2220" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="207" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;fontSize=13;strokeColor=#FFFFFF;" edge="1" parent="1" source="204">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="720" y="2250" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="204" value="Selecting relevant variables, reordering and refactoring" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="872.5" y="2220" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="205" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Save it:&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#ffb366&quot;&gt;pre_cleaned_unique.csv&amp;nbsp;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;(1908, 13)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="542.5500000000001" y="2220" width="177" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="208" value="Repeated molecules&lt;br style=&quot;font-size: 13px;&quot;&gt;(1731,17)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#18141D;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="1110" y="1710" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="209" value="Criteria for keeping information of removed repeated molecules&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- pref_name -&amp;gt; Smallest Name (no salt)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- smiles -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- molecule_chembl_id -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- first_approval&amp;nbsp; -&amp;gt; Oldest Year&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- molecule_type -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- indication_class -&amp;gt; Biggest Description&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- polymer_flag -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- withdrawn_flag -&amp;gt; Any True (only false if all are false)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- inorganic_flag -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- therapeutic_flag -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- natural product -&amp;gt; Any True (only false if all are false)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- oral -&amp;gt; Any True (only false if all are false)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- parenteral -&amp;gt; Any True (only false if all are false)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- topical -&amp;gt; Any True (only false if all are false)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- mw -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- correct_fragment -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- ROMol -&amp;gt; Any Entry&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#18141D;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="1319" y="1571.3100000000002" width="331" height="339.37" as="geometry"/>
+                </mxCell>
+                <mxCell id="210" value="Separate&lt;br style=&quot;font-size: 13px;&quot;&gt;Unique&lt;br style=&quot;font-size: 13px;&quot;&gt;Molecules" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fillColor=#18141D;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="902" y="1692" width="99" height="97" as="geometry"/>
+                </mxCell>
+                <mxCell id="219" value="Criteria for keeping information of removed repeated molecules&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- pref_name -&amp;gt; Smallest Name (no salt)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- smiles -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- molecule_chembl_id -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- first_approval&amp;nbsp; -&amp;gt; Oldest Year&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- molecule_type -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- indication_class -&amp;gt; Biggest Description&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- polymer_flag -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- withdrawn_flag -&amp;gt; Any True (only false if all are false)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- inorganic_flag -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- therapeutic_flag -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- natural product -&amp;gt; Any True (only false if all are false)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- oral -&amp;gt; Any True (only false if all are false)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- parenteral -&amp;gt; Any True (only false if all are false)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- topical -&amp;gt; Any True (only false if all are false)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- mw -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- correct_fragment -&amp;gt; Any Entry&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;- ROMol -&amp;gt; Any Entry&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="1319" y="1570.3100000000002" width="331" height="339.37" as="geometry"/>
+                </mxCell>
+                <mxCell id="220" value="Repeated molecules&lt;br style=&quot;font-size: 13px;&quot;&gt;(1731,17)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="1110" y="1709" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="221" value="Separate&lt;br style=&quot;font-size: 13px;&quot;&gt;Unique&lt;br style=&quot;font-size: 13px;&quot;&gt;Molecules" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;strokeColor=#FFFFFF;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="902" y="1691" width="99" height="97" as="geometry"/>
+                </mxCell>
+                <mxCell id="222" value="Neutralize and Standardize SMILES" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="690" y="1711" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="223" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Save it:&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#ffb366&quot;&gt;concatenated_dataset.csv&amp;nbsp;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;(2824, 14)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=2;fontSize=13;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="752.2700000000001" y="1410" width="177" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="224" value="Keeping the correct fragment" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="481.5" y="1711" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
