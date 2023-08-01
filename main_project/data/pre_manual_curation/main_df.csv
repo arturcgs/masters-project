@@ -28,8 +28,7 @@ METFORMIN,CN(C)C(=N)NC(=N)N,CHEMBL1431,1995,Small molecule,Antidiabetic,0,False,
 FLUOROURACIL,O=c1[nH]cc(F)c(=O)[nH]1,CHEMBL185,1962,Small molecule,Antineoplastic,0,False,0,True,1,False,True,True,130.017855556
 MONOMETHYL FUMARATE,COC(=O)/C=C/C(=O)O,CHEMBL589586,2020,Small molecule,,0,False,0,True,0,True,False,False,130.026608672
 AMINOCAPROIC ACID,NCCCCCC(=O)O,CHEMBL1046,1964,Small molecule,Hemostatic,0,False,0,True,0,True,True,False,131.094628656
-DEXTROAMPHETAMINE,C[C@H](N)Cc1ccccc1,CHEMBL612,1955,Small molecule,Stimulant (central),0,False,0,True,0
-.,True,False,True,135.104799416
+DEXTROAMPHETAMINE,C[C@H](N)Cc1ccccc1,CHEMBL612,1955,Small molecule,Stimulant (central),0,False,0,True,0,True,False,True,135.104799416
 AMPHETAMINE,CC(N)Cc1ccccc1,CHEMBL405,1955,Small molecule,Stimulant (central),0,False,0,True,0,True,False,False,135.104799416
 ALLOPURINOL,Oc1ncnc2[nH]ncc12,CHEMBL1467,1966,Small molecule,Xanthine Oxidase Inhibitor,0,False,0,True,0,True,True,False,136.038510748
 PHENELZINE,NNCCc1ccccc1,CHEMBL1089,1961,Small molecule,Antidepressant,0,False,0,True,0,True,False,False,136.100048384
