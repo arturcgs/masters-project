@@ -24,7 +24,7 @@ class SmilesCleaner:
     A class for cleaning and processing SMILES data in a DataFrame.
     """
 
-    def __init__(self, dataframe):
+    def __init__(self, dataframe:pd.DataFrame):
         """
         Constructor for SmilesCleaner.
 
@@ -101,3 +101,4 @@ class SmilesCleaner:
             return self
         else:
             return self
+
