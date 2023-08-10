@@ -1,0 +1,541 @@
+pref_name,SMILES,molecule_chembl_id,first_approval,molecule_type,indication_class,polymer_flag,withdrawn_flag,inorganic_flag,therapeutic_flag,natural_product,oral,parenteral,topical,mw
+NITROPRUSSIDE,not found,CHEMBL2097081,1981.0,Small molecule,Antihypertensive,0,False,0,True,0,False,True,False,
+SODIUM NITROPRUSSIDE,not found,CHEMBL136478,1981.0,Small molecule,Antihypertensive,0,False,0,True,0,False,True,False,
+FERRIC CITRATE,not found,CHEMBL3991241,2014.0,Small molecule,,0,False,0,True,0,True,False,False,
+FERRIC CITRATE,not found,CHEMBL3301597,2014.0,Small molecule,,0,False,0,True,0,True,False,False,
+GOLD SODIUM THIOMALATE,not found,CHEMBL306043,,Small molecule,,0,False,0,True,0,False,False,False,
+BISMUTH SUBSALICYLATE,not found,CHEMBL1120,1996.0,Small molecule,Antidiarrheal; Anti-Ulcerative; Antacid,0,False,0,True,0,True,False,False,
+CARBOPLATIN,not found,CHEMBL1351,1989.0,Small molecule,Antineoplastic,0,False,0,True,0,False,True,False,
+AUROTHIOGLUCOSE,not found,CHEMBL2354773,,Small molecule,,0,False,0,True,1,False,False,False,
+BISMUTH SUBGALLATE,not found,CHEMBL1592101,,Small molecule,,0,False,0,True,0,False,False,False,
+OXALIPLATIN,not found,CHEMBL414804,2002.0,Small molecule,,0,False,0,True,0,False,True,False,
+THIMEROSAL,not found,CHEMBL508338,,Small molecule,,0,False,0,True,0,False,False,False,
+DICOBALT EDETATE,not found,CHEMBL3833337,,Small molecule,,0,False,0,True,0,False,False,False,
+FERRIC MALTOL,not found,CHEMBL4298110,2019.0,Small molecule,,0,False,0,True,0,True,False,False,
+LANTHANUM CARBONATE,not found,CHEMBL2096647,2004.0,Small molecule,,0,False,0,True,0,True,False,False,
+MERSALYL,not found,CHEMBL1200943,,Small molecule,,0,False,0,True,0,False,True,False,
+PENTETATE CALCIUM TRISODIUM YB,not found,CHEMBL2110560,1976.0,Small molecule,,0,False,0,True,0,False,True,False,
+AURANOFIN,not found,CHEMBL1366,1985.0,Small molecule,Antirheumatic,0,False,0,True,1,True,False,False,
+GADOXETATE DISODIUM,not found,CHEMBL2103740,2008.0,Small molecule,,0,False,0,True,0,False,True,False,
+GADOXETIC ACID,not found,CHEMBL2221312,2008.0,Small molecule,,0,False,0,True,0,False,True,False,
+SAMARIUM LEXIDRONAM PENTASODIUM,not found,CHEMBL2110561,1997.0,Small molecule,,0,False,0,True,0,False,True,False,
+SODIUM STIBOGLUCONATE,not found,CHEMBL3991035,,Small molecule,,0,False,0,True,0,False,False,False,
+SODIUM STIBOGLUCONATE,not found,CHEMBL2079699,,Small molecule,,0,False,0,True,0,False,False,False,
+MERBROMIN,not found,CHEMBL3833381,,Small molecule,,0,False,0,True,0,False,False,False,
+MERETHOXYLLINE PROCAINE,not found,CHEMBL1200443,,Small molecule,,0,False,0,True,0,False,True,False,
+PADELIPORFIN,not found,CHEMBL4594284,,Small molecule,,0,False,0,True,1,False,False,False,
+PRUSSIAN BLUE INSOLUBLE,not found,CHEMBL2096629,2003.0,Small molecule,,0,False,0,True,0,True,False,False,
+GADOPICLENOL,not found,CHEMBL4297634,2022.0,Small molecule,,0,False,0,True,1,False,True,False,
+HYDRARGAPHEN,not found,CHEMBL3833364,,Small molecule,,0,False,0,True,0,False,False,False,
+LUTETIUM LU 177 VIPIVOTIDE TETRAXETAN,not found,CHEMBL4594406,2022.0,Small molecule,,0,False,0,True,1,False,True,False,
+VIPIVOTIDE TETRAXETAN LUTETIUM,not found,CHEMBL4594730,2022.0,Small molecule,,0,False,0,True,1,False,True,False,
+FERRIC PYROPHOSPHATE CITRATE,not found,CHEMBL3833317,2015.0,Small molecule,,0,False,0,True,0,False,True,False,
+COLISTIMETHATE SODIUM,not found,CHEMBL1201441,1970.0,Small molecule,Antibacterial,0,False,0,True,1,False,True,False,
+GRAMICIDIN,not found,CHEMBL1201469,1968.0,Small molecule,Antibacterial,0,False,0,True,1,False,False,True,
+PHENYLPROPANOLAMINE POLISTIREX,not found,CHEMBL1201535,1984.0,Small molecule,Adrenergic (vasoconstrictor),0,True,0,True,0,True,False,False,
+CODEINE POLISTIREX,not found,CHEMBL1201463,1985.0,Small molecule,Antitussive,0,False,0,True,1,True,False,False,
+ALSEROXYLON,not found,CHEMBL1201454,1982.0,Small molecule,,0,False,0,True,1,True,False,False,
+CRYPTENAMINE ACETATES,not found,CHEMBL1201444,1982.0,Small molecule,,0,False,0,True,1,False,True,False,
+RAUWOLFIA SERPENTINA,not found,CHEMBL3559672,1954.0,Small molecule,Antihypertensive,0,False,0,True,1,True,False,False,
+VERATRUM VIRIDE ROOT,not found,CHEMBL1201531,1982.0,Small molecule,,0,False,0,True,1,True,False,False,
+NEOMYCIN,not found,CHEMBL3989751,1957.0,Small molecule,,0,False,0,True,1,True,False,True,
+NEOMYCIN SULFATE,not found,CHEMBL3989769,1957.0,Small molecule,,0,False,0,True,1,True,False,True,
+"ESTROGENS, CONJUGATED",not found,CHEMBL1201649,1942.0,Small molecule,Estrogen,0,False,0,True,1,True,True,True,
+PSEUDOEPHEDRINE POLISTIREX,not found,CHEMBL1201483,1987.0,Small molecule,Nasal Decongestant,0,False,0,True,0,True,False,False,
+"SYNTHETIC CONJUGATED ESTROGENS, B",not found,CHEMBL1201467,2004.0,Small molecule,,0,False,0,True,0,True,False,False,
+CRYPTENAMINE TANNATES,not found,CHEMBL1201603,1982.0,Small molecule,,0,False,0,True,1,True,False,False,
+"ESTROGENS, ESTERIFIED",not found,CHEMBL1201468,1977.0,Small molecule,Estrogen,0,False,0,True,1,True,False,False,
+ALKAVERVIR,not found,CHEMBL1201658,1982.0,Small molecule,,0,False,0,True,1,True,False,False,
+"ESTROGENS, CONJUGATED SYNTHETIC A",not found,CHEMBL1201466,1999.0,Small molecule,,0,False,0,True,0,True,False,True,
+BELLADONNA ROOT,not found,CHEMBL2108834,,Small molecule,,0,False,0,True,1,False,False,False,
+PIPERAZINE,C1CNCCN1,CHEMBL1412,,Small molecule,Anthelmintic,0,True,0,True,0,False,False,False,86.08439831999999
+DIHYDROXYACETONE,O=C(CO)CO,CHEMBL1229937,,Small molecule,,0,False,0,True,0,False,False,False,90.031694052
+MEPARFYNOL,C#CC(C)(O)CC,CHEMBL501613,,Small molecule,,0,False,0,True,0,False,False,False,98.07316494
+RESORCINOL,Oc1cccc(O)c1,CHEMBL24147,,Small molecule,Keratolytic,0,False,0,True,0,False,False,False,110.036779432
+FUMARIC ACID,O=C(O)/C=C/C(=O)O,CHEMBL503160,,Small molecule,Acidifier,0,False,0,True,0,False,False,False,116.01095860800001
+NOXYTIOLIN,CNC(=S)NCO,CHEMBL2106441,,Small molecule,,0,False,0,True,0,False,False,False,120.035733876
+PHLOROGLUCINOL,Oc1cc(O)cc(O)c1,CHEMBL473159,,Small molecule,,0,False,0,True,0,False,False,False,126.031694052
+PYROGALLOL,Oc1cccc(O)c1O,CHEMBL307145,,Small molecule,,0,False,0,True,0,False,False,False,126.031694052
+TRICHLOROETHYLENE,ClC=C(Cl)Cl,CHEMBL279816,,Small molecule,,0,False,0,True,0,False,False,False,129.914383072
+AMINOLEVULINIC ACID,NCC(=O)CCC(=O)O,CHEMBL601,,Small molecule,Antineoplastic,0,False,0,True,0,False,False,False,131.058243148
+PARALDEHYDE,CC1OC(C)OC(C)O1,CHEMBL1410743,,Small molecule,Sedative-Hypnotic,0,False,0,True,0,False,False,False,132.078644244
+BETAHISTINE,CNCCc1ccccn1,CHEMBL24441,,Small molecule,Vasodilator,0,False,0,True,0,False,False,False,136.100048384
+METHYL NICOTINATE,COC(=O)c1cccnc1,CHEMBL379845,,Small molecule,,0,False,0,True,0,False,False,False,137.047678464
+AMINOBENZOIC ACID,Nc1ccc(C(=O)O)cc1,CHEMBL542,,Small molecule,"Analgesic,Ultraviolet Screen",0,False,0,True,0,False,False,False,137.047678464
+SALICYLIC ACID,O=C(O)c1ccccc1O,CHEMBL424,,Small molecule,Keratolytic,0,False,0,True,0,False,False,False,138.031694052
+AMMONIUM BENZOATE,N.O=C(O)c1ccccc1,CHEMBL2105970,,Small molecule,,0,False,0,True,0,False,False,False,139.063328528
+ISOMETHEPTENE,CNC(C)CCC=C(C)C,CHEMBL1697841,,Small molecule,,0,False,0,True,0,False,False,False,141.151749608
+PIRACETAM,NC(=O)CN1CCCC1=O,CHEMBL36715,,Small molecule,Cognition Adjuvant,0,False,0,True,0,False,False,False,142.07422756
+COUMARIN,O=c1ccc2ccccc2o1,CHEMBL6466,,Small molecule,,0,False,0,True,0,False,False,False,146.036779432
+LYSINE,NCCCC[C@H](N)C(=O)O,CHEMBL8085,,Small molecule,Amino Acid,0,False,0,True,0,False,False,False,146.105527688
+TISOPURINE,Sc1ncnc2[nH]ncc12,CHEMBL119423,,Small molecule,,0,False,0,True,0,False,False,False,152.015667128
+OXYPURINOL,Oc1nc(O)c2cn[nH]c2n1,CHEMBL859,,Small molecule,Xanthine Oxidase Inhibitor,0,False,0,True,1,False,False,False,152.033425368
+MANDELIC ACID,O=C(O)C(O)c1ccccc1,CHEMBL1609,,Small molecule,,0,False,0,True,0,False,False,False,152.04734411599998
+CAMPHOR,CC1(C)[C@@H]2CC[C@@]1(C)C(=O)C2,CHEMBL504760,,Small molecule,Antipruritic,0,False,0,True,0,False,False,False,152.120115132
+BETAINE HYDROCHLORIDE,C[N+](C)(C)CC(=O)O.[Cl-],CHEMBL1201130,,Small molecule,Replenisher Adjunct (electrolyte),0,False,0,True,0,False,False,False,153.055656304
+DOPAMINE,NCCc1ccc(O)c(O)c1,CHEMBL59,,Small molecule,Adrenergic,0,False,0,True,0,False,False,False,153.078978592
+ENBUCRILATE,C=C(C#N)C(=O)OCCCC,CHEMBL2104251,,Small molecule,,0,False,0,True,0,False,False,False,153.078978592
+ACIPIMOX,Cc1cnc(C(=O)O)c[n+]1[O-],CHEMBL345714,,Small molecule,,0,False,0,True,0,False,False,False,154.037842052
+CHLOROXYLENOL,Cc1cc(O)cc(C)c1Cl,CHEMBL398440,,Small molecule,Antibacterial,0,False,0,True,0,False,False,False,156.034192588
+SODIUM SALICYLATE,O=C([O-])c1ccccc1O.[Na+],CHEMBL447868,,Small molecule,Analgesic,0,False,0,True,0,False,False,False,160.0136383
+CLOMETHIAZOLE,Cc1ncsc1CCCl,CHEMBL315795,,Small molecule,,0,False,0,True,0,False,False,False,161.006597936
+TRICHLOROACETIC ACID,O=C(O)C(Cl)(Cl)Cl,CHEMBL14053,,Small molecule,,0,False,0,True,0,False,False,False,161.904212312
+CHLORAL HYDRATE,OC(O)C(Cl)(Cl)Cl,CHEMBL455917,,Small molecule,Sedative-Hypnotic,0,False,0,True,0,False,False,False,163.919862376
+METHOXYFLURANE,COC(F)(F)C(Cl)Cl,CHEMBL1341,,Small molecule,Anesthetic (inhalation),0,True,0,True,0,False,False,True,163.960726548
+BENZOCAINE,CCOC(=O)c1ccc(N)cc1,CHEMBL278172,,Small molecule,Anesthetic (topical),0,False,0,True,0,False,False,False,165.078978592
+NOREPINEPHRINE,NC[C@H](O)c1ccc(O)c(O)c1,CHEMBL1437,,Small molecule,Adrenergic (vasoconstrictor),0,False,0,True,0,False,False,False,169.073893212
+TERPIN,CC1(O)CCC(C(C)(C)O)CC1,CHEMBL1651998,,Small molecule,Expectorant,0,False,0,True,0,False,False,False,172.14632988
+DEBRISOQUIN,N=C(N)N1CCc2ccccc2C1,CHEMBL169901,,Small molecule,Antihypertensive,0,False,0,True,0,False,False,False,175.110947416
+DICHLOROBENZYL ALCOHOL,OCc1ccc(Cl)cc1Cl,CHEMBL3184437,,Small molecule,,0,False,0,True,0,False,False,False,175.979570172
+NIKETHAMIDE,CCN(CC)C(=O)c1cccnc1,CHEMBL2104607,,Small molecule,,0,False,0,True,0,False,False,False,178.110613068
+AMYLMETACRESOL,CCCCCc1ccc(C)cc1O,CHEMBL1512677,,Small molecule,,0,False,0,True,0,False,False,False,178.135765196
+CARBOCYSTEINE,N[C@@H](CSCC(=O)O)C(=O)O,CHEMBL396416,,Small molecule,Mucolytic,0,False,0,True,0,False,False,False,179.025228768
+GLUCOSAMINE,N[C@H]1C(O)O[C@H](CO)[C@@H](O)[C@@H]1O,CHEMBL493287,,Small molecule,,0,False,0,True,1,False,False,False,179.079372516
+IPRONIAZID,CC(C)NNC(=O)c1ccncc1,CHEMBL92401,,Small molecule,,0,False,0,True,0,False,False,False,179.105862036
+METHOXYPHENAMINE,CNC(C)Cc1ccccc1OC,CHEMBL2010507,,Small molecule,,0,False,0,True,0,False,False,False,179.131014164
+PROTIONAMIDE,CCCc1cc(C(N)=S)ccn1,CHEMBL1378024,,Small molecule,,0,False,0,True,0,False,False,False,180.072119384
+ETILEFRINE,CCNCC(O)c1cccc(O)c1,CHEMBL86882,,Small molecule,,0,False,0,True,0,False,False,False,181.11027872
+MEPHENESIN,Cc1ccccc1OCC(O)CO,CHEMBL229128,,Small molecule,,0,False,0,True,0,False,False,False,182.094294308
+GLUTAMIC ACID HYDROCHLORIDE,Cl.N[C@@H](CCC(=O)O)C(=O)O,CHEMBL1255943,,Small molecule,,0,False,0,True,0,False,False,False,183.02983548
+HISTAMINE DIHYDROCHLORIDE,Cl.Cl.NCCc1c[nH]cn1,CHEMBL1533310,,Small molecule,,0,False,0,True,0,False,False,False,183.03300271199998
+BARBITAL,CCC1(CC)C(=O)NC(=O)NC1=O,CHEMBL444,,Small molecule,,0,False,0,True,0,False,False,False,184.084792244
+POLIHEXANIDE,CCCCCCNC(=N)NC(=N)N,CHEMBL2106939,,Small molecule,,0,False,0,True,0,False,False,False,185.16404560799998
+CARBIMAZOLE,CCOC(=O)n1ccn(C)c1=S,CHEMBL508102,,Small molecule,,0,False,0,True,0,False,False,False,186.04629856
+ANTIPYRINE,Cc1cc(=O)n(-c2ccccc2)n1C,CHEMBL277474,,Small molecule,Analgesic,0,False,0,True,0,False,False,False,188.094963004
+DOBESILIC ACID,O=S(=O)(O)c1cc(O)ccc1O,CHEMBL1232131,,Small molecule,Hemostatic,0,False,0,True,0,False,False,False,189.993594292
+TERPIN HYDRATE,CC1(O)CCC(C(C)(C)O)CC1.O,CHEMBL2105614,,Small molecule,Expectorant,0,False,0,True,0,False,False,False,190.156894564
+DIETHYLTOLUAMIDE,CCN(CC)C(=O)c1cccc(C)c1,CHEMBL1453317,,Small molecule,"Repellant, Arthropod",0,False,0,True,0,False,False,False,191.131014164
+ETAFEDRINE,CCN(C)C(C)C(O)c1ccccc1,CHEMBL2110926,,Small molecule,Adrenergic,0,False,0,True,0,False,False,False,193.146664228
+HEXYLRESORCINOL,CCCCCCc1ccc(O)cc1O,CHEMBL443605,,Small molecule,Anthelmintic,0,False,0,True,0,False,False,False,194.130679816
+BECLAMIDE,O=C(CCCl)NCc1ccccc1,CHEMBL64195,,Small molecule,,0,False,0,True,0,False,False,False,197.060741684
+TEGAFUR,O=c1[nH]c(=O)n(C2CCCO2)cc1F,CHEMBL20883,,Small molecule,Antineoplastic,0,False,0,True,1,False,False,False,200.059720368
+CARBARIL,CNC(=O)Oc1cccc2ccccc12,CHEMBL46917,,Small molecule,,0,True,0,True,0,False,False,False,201.078978592
+ACETYLCARNITINE,CC(=O)O[C@H](CC(=O)[O-])C[N+](C)(C)C,CHEMBL1697733,,Small molecule,,0,False,0,True,0,False,False,False,203.115758024
+TRYPTOPHAN,N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O,CHEMBL54976,,Small molecule,Amino Acid,0,True,0,True,0,False,False,False,204.089877624
+PHENFORMIN,N=C(N)NC(=N)NCCc1ccccc1,CHEMBL170988,,Small molecule,,0,True,0,True,0,False,False,False,205.13274547999998
+"LIPOIC ACID, ALPHA",O=C(O)CCCCC1CCSS1,CHEMBL33864,,Small molecule,,0,False,0,True,0,False,False,False,206.043521688
+BARBITAL SODIUM,CCC1(CC)C(=O)[N-]C(=O)NC1=O.[Na+],CHEMBL2105904,,Small molecule,,0,False,0,True,0,False,False,False,206.066736492
+PHENETURIDE,CCC(C(=O)NC(N)=O)c1ccccc1,CHEMBL2107062,,Small molecule,,0,False,0,True,0,False,False,False,206.105527688
+DEXIBUPROFEN,CC(C)Cc1ccc([C@H](C)C(=O)O)cc1,CHEMBL175,,Small molecule,Anti-Inflammatory; Analgesic,0,False,0,True,0,False,False,False,206.130679816
+BETAHISTINE HYDROCHLORIDE,CNCCc1ccccn1.Cl.Cl,CHEMBL1446813,,Small molecule,Vasodilator,0,False,0,True,0,False,False,False,208.05340380799998
+PROFLAVINE,Nc1ccc2cc3ccc(N)cc3nc2c1,CHEMBL55400,,Small molecule,,0,False,0,True,0,False,False,False,209.095297352
+BAMETHAN,CCCCNCC(O)c1ccc(O)cc1,CHEMBL1987462,,Small molecule,Vasodilator,0,False,0,True,0,False,False,False,209.141578848
+POTASSIUM SODIUM TARTRATE,O=C([O-])[C@H](O)[C@@H](O)C(=O)[O-].[K+].[Na+],CHEMBL2219738,,Small molecule,Laxative,0,False,0,True,0,False,False,False,209.95426380799998
+NICORANDIL,O=C(NCCO[N+](=O)[O-])c1cccnc1,CHEMBL284906,,Small molecule,Vasodilator (coronary),0,False,0,True,0,False,False,False,211.059305768
+BENZOIN,O=C(c1ccccc1)C(O)c1ccccc1,CHEMBL190677,,Small molecule,Protectant (topical),0,False,0,True,0,False,False,False,212.083729624
+FELBINAC,O=C(O)Cc1ccc(-c2ccccc2)cc1,CHEMBL413965,,Small molecule,Anti-Inflammatory,0,False,0,True,0,False,False,False,212.083729624
+BUTETHAL,CCCCC1(CC)C(=O)NC(=O)NC1=O,CHEMBL404422,,Small molecule,,0,False,0,True,0,False,False,False,212.116092372
+SULFAGUANIDINE,N=C(N)NS(=O)(=O)c1ccc(N)cc1,CHEMBL338802,,Small molecule,,0,False,0,True,0,False,False,False,214.05244656
+SULFACARBAMIDE,NC(=O)NS(=O)(=O)c1ccc(N)cc1,CHEMBL139877,,Small molecule,,0,True,0,True,0,False,False,False,215.036462148
+GLUCOSAMINE HYDROCHLORIDE,Cl.N[C@H]1C(O)O[C@H](CO)[C@@H](O)[C@@H]1O,CHEMBL1707007,,Small molecule,,0,False,0,True,1,False,False,False,215.056050228
+NAFTAZONE,NC(=O)N/N=C1\C=Cc2ccccc2C1=O,CHEMBL2106794,,Small molecule,,0,False,0,True,0,False,False,False,215.069476528
+METHOXYPHENAMINE HYDROCHLORIDE,CNC(C)Cc1ccccc1OC.Cl,CHEMBL1985928,,Small molecule,,0,False,0,True,0,False,False,False,215.107691876
+BENZYLTHIOURACIL,Oc1cc(Cc2ccccc2)nc(S)n1,CHEMBL1491306,,Small molecule,,0,False,0,True,1,False,False,False,218.05138394
+ORNIDAZOLE,Cc1ncc([N+](=O)[O-])n1CC(O)CCl,CHEMBL1449676,,Small molecule,Anti-Infective,0,False,0,True,0,False,False,False,219.04106886
+OXITRIPTAN,N[C@@H](Cc1c[nH]c2ccc(O)cc12)C(=O)O,CHEMBL350221,,Small molecule,,0,False,0,True,0,False,False,False,220.084792244
+RIMITEROL,Oc1ccc(C(O)C2CCCCN2)cc1O,CHEMBL88055,,Small molecule,,0,False,0,True,0,False,False,False,223.120843404
+BUFEXAMAC,CCCCOc1ccc(CC(=O)NO)cc1,CHEMBL94394,,Small molecule,,0,True,0,True,0,False,False,False,223.120843404
+ETHAMIVAN,CCN(CC)C(=O)c1ccc(O)c(OC)c1,CHEMBL1229908,,Small molecule,Stimulant (central and respiratory),0,False,0,True,0,False,False,False,223.120843404
+ANTHRALIN,O=C1c2c(O)cccc2Cc2cccc(O)c21,CHEMBL46469,,Small molecule,Antipsoriatic,0,False,0,True,0,False,False,False,226.06299418
+NIMORAZOLE,O=[N+]([O-])c1cncn1CCN1CCOCC1,CHEMBL435966,,Small molecule,,0,False,0,True,0,False,False,False,226.106590308
+AMOBARBITAL,CCC1(CCC(C)C)C(=O)NC(=O)NC1=O,CHEMBL267894,,Small molecule,Sedative-Hypnotic,0,True,0,True,0,False,False,False,226.131742436
+CHLORQUINALDOL,Cc1ccc2c(Cl)cc(Cl)c(O)c2n1,CHEMBL224325,,Small molecule,,0,False,0,True,0,False,False,False,226.990469204
+TULOBUTEROL,CC(C)(C)NCC(O)c1ccccc1Cl,CHEMBL1159717,,Small molecule,,0,False,0,True,0,False,False,False,227.107691876
+ETAFEDRINE HYDROCHLORIDE,CCN(C)C(C)C(O)c1ccccc1.Cl,CHEMBL2106678,,Small molecule,Adrenergic,0,False,0,True,0,False,False,False,229.12334194
+DEXFENFLURAMINE,CCN[C@@H](C)Cc1cccc(C(F)(F)F)c1,CHEMBL248702,,Small molecule,Appetite Suppressant (systemic),0,True,0,True,0,False,False,False,231.123484172
+PHENOBARBITAL,CCC1(c2ccccc2)C(=O)NC(=O)NC1=O,CHEMBL40,,Small molecule,"Anticonvulsant; Sedative-Hypnotic,Sedative-Hypnotic; Anticonvulsant",0,False,0,True,0,False,False,False,232.084792244
+MELATONIN,COc1ccc2[nH]cc(CCNC(C)=O)c2c1,CHEMBL45,,Small molecule,,0,False,0,True,0,False,False,False,232.121177752
+DEXMETHYLPHENIDATE,COC(=O)[C@H](c1ccccc1)[C@H]1CCCCN1,CHEMBL827,,Small molecule,,0,False,0,True,0,False,False,False,233.141578848
+MEPTAZINOL,CCC1(c2cccc(O)c2)CCCCN(C)C1,CHEMBL314437,,Small molecule,Analgesic,0,False,0,True,0,False,False,False,233.177964356
+AMYL NITRITE,CC(C)CCON=O.CCC(C)CON=O,CHEMBL3833339,,Small molecule,,0,False,0,True,0,False,False,False,234.157957184
+CYCLOBARBITAL,CCC1(C2=CCCCC2)C(=O)NC(=O)NC1=O,CHEMBL268164,,Small molecule,,0,True,0,True,0,False,False,False,236.116092372
+ACEFYLLINE,Cn1c(=O)c2c(ncn2CC(=O)O)n(C)c1=O,CHEMBL70246,,Small molecule,,0,False,0,True,1,False,False,False,238.0702048
+PROXYPHYLLINE,CC(O)Cn1cnc2c1c(=O)n(C)c(=O)n2C,CHEMBL37390,,Small molecule,,0,False,0,True,1,False,False,False,238.106590308
+CYSTINE,N[C@@H](CSSC[C@H](N)C(=O)O)C(=O)O,CHEMBL590540,,Small molecule,Amino Acid,0,False,0,True,0,False,False,False,240.023848864
+FLUINDIONE,O=C1c2ccccc2C(=O)C1c1ccc(F)cc1,CHEMBL24924,,Small molecule,,0,False,0,True,0,False,False,False,240.058657748
+MOXONIDINE,COc1nc(C)nc(Cl)c1NC1=NCCN1,CHEMBL19236,,Small molecule,,0,False,0,True,0,False,False,False,241.07303768399998
+PHENFORMIN HYDROCHLORIDE,Cl.N=C(N)NC(=N)NCCc1ccccc1,CHEMBL1528839,,Small molecule,,0,True,0,True,0,False,False,False,241.10942319199998
+CHOLINE SALICYLATE,C[N+](C)(C)CCO.O=C([O-])c1ccccc1O,CHEMBL2104095,,Small molecule,,0,False,0,True,0,False,False,False,241.131408088
+MEXENONE,COc1ccc(C(=O)c2ccc(C)cc2)c(O)c1,CHEMBL1898387,,Small molecule,,0,False,0,True,0,False,False,False,242.094294308
+MOLSIDOMINE,CCOC(=O)[N-]c1c[n+](N2CCOCC2)no1,CHEMBL1329455,,Small molecule,,0,False,0,True,0,False,False,False,242.101504928
+AGOMELATINE,COc1ccc2cccc(CCNC(C)=O)c2c1,CHEMBL10878,,Small molecule,,0,False,0,True,0,False,False,False,243.125928784
+XYLOMETAZOLINE,Cc1cc(C(C)(C)C)cc(C)c1CC1=NCCN1,CHEMBL312448,,Small molecule,Adrenergic (vasoconstrictor),0,False,0,True,0,False,False,False,244.19394876799998
+ISOAMINILE,CC(CC(C#N)(c1ccccc1)C(C)C)N(C)C,CHEMBL2105002,,Small molecule,,0,False,0,True,0,False,False,False,244.19394876799998
+MEPHOBARBITAL,CCC1(c2ccccc2)C(=O)NC(=O)N(C)C1=O,CHEMBL45029,,Small molecule,Anticonvulsant; Sedative-Hypnotic,0,False,0,True,0,False,False,False,246.100442308
+ENOXIMONE,CSc1ccc(C(=O)c2[nH]c(=O)[nH]c2C)cc1,CHEMBL249856,,Small molecule,Cardiotonic,0,False,0,True,0,False,False,False,248.061948624
+AMOBARBITAL SODIUM,CCC1(CCC(C)C)C(=O)N=C([O-])NC1=O.[Na+],CHEMBL2105941,,Small molecule,Sedative-Hypnotic,0,True,0,True,0,False,False,False,248.113686684
+ERDOSTEINE,O=C(O)CSCC(=O)NC1CCSC1=O,CHEMBL1697744,,Small molecule,,0,False,0,True,0,False,False,False,249.012949832
+CINOXATE,CCOCCOC(=O)/C=C/c1ccc(OC)cc1,CHEMBL2104045,,Small molecule,Ultraviolet Screen,0,False,0,True,0,False,False,False,250.120509056
+NEFOPAM,CN1CCOC(c2ccccc2)c2ccccc2C1,CHEMBL465026,,Small molecule,Analgesic,0,False,0,True,0,False,False,False,253.146664228
+IODINE,II,CHEMBL1201225,,Small molecule,"Anti-Infective, Topical",0,False,0,True,0,False,False,False,253.808946
+PHENOBARBITAL SODIUM,CCC1(c2ccccc2)C(=O)N=C([O-])NC1=O.[Na+],CHEMBL149972,,Small molecule,Anticonvulsant; Sedative-Hypnotic,0,False,0,True,0,False,False,False,254.066736492
+FENBUFEN,O=C(O)CCC(=O)c1ccc(-c2ccccc2)cc1,CHEMBL277522,,Small molecule,Anti-Inflammatory,0,False,0,True,0,False,False,False,254.094294308
+DEXKETOPROFEN,C[C@H](C(=O)O)c1cccc(C(=O)c2ccccc2)c1,CHEMBL75435,,Small molecule,,0,False,0,True,0,False,False,False,254.094294308
+ESLICARBAZEPINE,NC(=O)N1c2ccccc2C[C@H](O)c2ccccc21,CHEMBL315985,,Small molecule,,0,False,0,True,0,False,False,False,254.105527688
+TRICHLORFON,COP(=O)(OC)C(O)C(Cl)(Cl)Cl,CHEMBL167150,,Small molecule,Anthelmintic (veterinary),0,False,0,True,0,False,False,False,255.92257840599999
+CETRIMIDE,CCCCCCCCCCCCCC[N+](C)(C)C,CHEMBL1180003,,Small molecule,,0,False,0,True,0,False,False,False,256.29987663609
+BENSERAZIDE,NC(CO)C(=O)NNCc1ccc(O)c(O)c1O,CHEMBL1096979,,Small molecule,Inhibitor (decarboxylase),0,False,0,True,0,False,False,False,257.10117058000003
+SALSALATE,O=C(Oc1ccccc1C(=O)O)c1ccccc1O,CHEMBL154111,,Small molecule,Anti-Inflammatory; Analgesic,0,False,0,True,0,False,False,False,258.05282342000004
+TIAPROFENIC ACID,CC(C(=O)O)c1ccc(C(=O)c2ccccc2)s1,CHEMBL365795,,Small molecule,,0,False,0,True,0,False,False,False,260.050715244
+TOLFENAMIC ACID,Cc1c(Cl)cccc1Nc1ccccc1C(=O)O,CHEMBL121626,,Small molecule,,0,False,0,True,0,False,False,False,261.055656304
+PHENINDAMINE,CN1CCC2=C(C1)C(c1ccccc1)c1ccccc12,CHEMBL278398,,Small molecule,,0,False,0,True,0,False,False,False,261.151749608
+ETOGLUCID,C(COCCOCC1CO1)OCCOCC1CO1,CHEMBL460287,,Small molecule,,0,False,0,True,0,False,False,False,262.141638424
+ETHAMSYLATE,CCNCC.O=S(=O)(O)c1cc(O)ccc1O,CHEMBL1514715,,Small molecule,Hemostatic,0,False,0,True,0,False,False,False,263.082743644
+SULFIRAM,CCN(CC)C(=S)SC(=S)N(CC)CC,CHEMBL2004297,,Small molecule,,0,False,0,True,0,False,False,False,264.07886164
+MIANSERIN,CN1CCN2c3ccccc3Cc3ccccc3C2C1,CHEMBL6437,,Small molecule,Antihistaminic; Serotonin Inhibitor,0,False,0,True,0,False,False,False,264.16264864
+PRACTOLOL,CC(=O)Nc1ccc(OCC(O)CNC(C)C)cc1,CHEMBL6995,,Small molecule,Anti-Adrenergic (beta-receptor),0,False,0,True,0,False,False,False,266.163042564
+TRIMETAZIDINE,COc1ccc(CN2CCNCC2)c(OC)c1OC,CHEMBL203266,,Small molecule,,0,False,0,True,0,False,False,False,266.163042564
+DEXFENFLURAMINE HYDROCHLORIDE,CCN[C@@H](C)Cc1cccc(C(F)(F)F)c1.Cl,CHEMBL1887891,,Small molecule,Appetite Suppressant (systemic),0,True,0,True,0,False,False,False,267.100161884
+MOCLOBEMIDE,O=C(NCCN1CCOCC1)c1ccc(Cl)cc1,CHEMBL86304,,Small molecule,Antidepressant,0,False,0,True,0,False,False,False,268.097855464
+RAZOXANE,CC(CN1CC(=O)NC(=O)C1)N1CC(=O)NC(=O)C1,CHEMBL444186,,Small molecule,,0,False,0,True,0,False,False,False,268.117154992
+CICLOPIROX OLAMINE,Cc1cc(C2CCCCC2)n(O)c(=O)c1.NCCO,CHEMBL242580,,Small molecule,Antifungal,0,False,0,True,0,False,False,False,268.178692628
+MEPTAZINOL HYDROCHLORIDE,CCC1(c2cccc(O)c2)CCCCN(C)C1.Cl,CHEMBL1477274,,Small molecule,Analgesic,0,False,0,True,0,False,False,False,269.154642068
+MEDAZEPAM,CN1CCN=C(c2ccccc2)c2cc(Cl)ccc21,CHEMBL28333,,Small molecule,Tranquilizer (minor),0,False,0,True,0,False,False,False,270.09237616
+PILOCARPINE NITRATE,CC[C@@H]1C(=O)OC[C@@H]1Cc1cncn1C.O=[N+]([O-])O,CHEMBL1213136,,Small molecule,Cholinergic (ophthalmic),0,False,0,True,0,False,False,False,271.11682064400003
+ACETARSONE,CC(=O)Nc1cc([As](=O)(O)O)ccc1O,CHEMBL1330792,,Small molecule,,0,False,0,True,0,False,False,False,274.97749392000003
+NIFUROXAZIDE,O=C(N/N=C/c1ccc([N+](=O)[O-])o1)c1ccc(O)cc1,CHEMBL244888,,Small molecule,,0,False,0,True,0,False,False,False,275.05422038800003
+HOMATROPINE,CN1[C@@H]2CC[C@H]1C[C@@H](OC(=O)C(O)c1ccccc1)C2,CHEMBL1618018,,Small molecule,Anticholinergic,0,False,0,True,0,False,False,False,275.152143532
+PHYSOSTIGMINE,CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,CHEMBL94,,Small molecule,Cholinergic (ophthalmic),0,False,0,True,0,False,False,False,275.163376912
+CLENBUTEROL,CC(C)(C)NCC(O)c1cc(Cl)c(N)c(Cl)c1,CHEMBL49080,,Small molecule,,0,False,0,True,0,False,False,False,276.07961855599996
+MEBHYDROLIN,CN1CCc2c(c3ccccc3n2Cc2ccccc2)C1,CHEMBL1625607,,Small molecule,,0,False,0,True,0,False,False,False,276.16264864
+CYCLANDELATE,CC1CC(OC(=O)C(O)c2ccccc2)CC(C)(C)C1,CHEMBL1480987,,Small molecule,,0,False,0,True,0,False,False,False,276.172544628
+PADIMATE O,CCCCC(CC)COC(=O)c1ccc(N(C)C)cc1,CHEMBL1323699,,Small molecule,Ultraviolet Screen,0,False,0,True,0,False,False,False,277.204179104
+TREOSULFAN,CS(=O)(=O)OC[C@H](O)[C@@H](O)COS(C)(=O)=O,CHEMBL455186,,Small molecule,,0,False,0,True,0,False,False,False,278.013009408
+GAMOLENIC ACID,CCCCC/C=C\C/C=C\C/C=C\CCCCC(=O)O,CHEMBL464982,,Small molecule,,0,False,0,True,0,False,False,False,278.2245802
+MOXISYLYTE,CC(=O)Oc1cc(C(C)C)c(OCCN(C)C)cc1C,CHEMBL159226,,Small molecule,,0,False,0,True,0,False,False,False,279.18344366
+SULFAMETHOXYPYRIDAZINE,COc1ccc(NS(=O)(=O)c2ccc(N)cc2)nn1,CHEMBL268869,,Small molecule,,0,False,0,True,0,False,False,False,280.063011244
+SULFALENE,COc1nccnc1NS(=O)(=O)c1ccc(N)cc1,CHEMBL1525826,,Small molecule,Antibacterial,0,False,0,True,0,True,False,False,280.063011244
+XYLOMETAZOLINE HYDROCHLORIDE,Cc1cc(C(C)(C)C)cc(C)c1CC1=NCCN1.Cl,CHEMBL1256400,,Small molecule,Adrenergic (vasoconstrictor),0,False,0,True,0,False,False,False,280.17062648
+CHLORAL BETAINE,C[N+](C)(C)CC(=O)[O-].OC(O)C(Cl)(Cl)Cl,CHEMBL3833335,,Small molecule,,0,False,0,True,0,False,False,False,280.998840968
+FLUFENAMIC ACID,O=C(O)c1ccccc1Nc1cccc(C(F)(F)F)c1,CHEMBL23588,,Small molecule,Anti-Inflammatory,0,False,0,True,0,False,False,False,281.06636322
+NITRAZEPAM,O=C1CN=C(c2ccccc2)c2cc([N+](=O)[O-])ccc2N1,CHEMBL13209,,Small molecule,Anticonvulsant; Sedative-Hypnotic,0,False,0,True,0,False,False,False,281.080041212
+ALVERINE,CCN(CCCc1ccccc1)CCCc1ccccc1,CHEMBL253371,,Small molecule,Anticholinergic,0,False,0,True,0,False,False,False,281.214349864
+POTASSIUM SODIUM TARTRATE,O.O.O.O.O=C([O-])[C@H](O)[C@@H](O)C(=O)[O-].[K+].[Na+],CHEMBL2107168,,Small molecule,Laxative,0,False,0,True,0,False,False,False,281.996522544
+ARTEMISININ,C[C@@H]1CC[C@H]2[C@@H](C)C(=O)O[C@@H]3O[C@]4(C)CC[C@@H]1[C@]32OO4,CHEMBL567597,,Small molecule,,0,False,0,True,1,True,False,False,282.146723804
+EMEPRONIUM,CC[N+](C)(C)C(C)CC(c1ccccc1)c1ccccc1,CHEMBL2110805,,Small molecule,,0,False,0,True,0,False,False,False,282.22162631609
+ATALUREN,O=C(O)c1cccc(-c2noc(-c3ccccc3F)n2)c1,CHEMBL256997,,Small molecule,,0,False,0,True,0,False,False,False,284.05972036800006
+TAUROLIDINE,O=S1(=O)CCN(CN2CCS(=O)(=O)NC2)CN1,CHEMBL2105420,,Small molecule,,0,False,0,True,0,False,False,False,284.061296992
+TROPISETRON,CN1[C@@H]2CC[C@H]1C[C@@H](OC(=O)c1c[nH]c3ccccc13)C2,CHEMBL56564,,Small molecule,,0,False,0,True,0,False,False,False,284.15247788
+ARTENIMOL,C[C@H]1[C@@H](O)O[C@@H]2O[C@]3(C)CC[C@H]4[C@H](C)CC[C@@H]1[C@@]24OO3,CHEMBL252518,,Small molecule,,0,False,0,True,1,True,False,False,284.162373868
+IPRINDOLE,CN(C)CCCn1c2c(c3ccccc31)CCCCCC2,CHEMBL126224,,Small molecule,Antidepressant,0,False,0,True,0,False,False,False,284.225248896
+PROTHIPENDYL,CN(C)CCCN1c2ccccc2Sc2cccnc21,CHEMBL2111030,,Small molecule,,0,False,0,True,0,False,False,False,285.129968608
+CIPROFIBRATE,CC(C)(Oc1ccc(C2CC2(Cl)Cl)cc1)C(=O)O,CHEMBL557555,,Small molecule,Antihyperlipoproteinemic,0,False,0,True,0,False,False,False,288.03199966799997
+ESTRIOL,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1C[C@@H](O)[C@@H]2O,CHEMBL193482,,Small molecule,Estrogen,0,False,0,True,1,False,False,False,288.17254462799997
+NEFOPAM HYDROCHLORIDE,CN1CCOC(c2ccccc2)c2ccccc2C1.Cl,CHEMBL1407915,,Small molecule,Analgesic,0,False,0,True,0,False,False,False,289.12334194
+HYOSCYAMINE,CN1[C@@H]2CC[C@H]1C[C@@H](OC(=O)[C@H](CO)c1ccccc1)C2,CHEMBL1331216,,Small molecule,Anticholinergic,0,False,0,True,0,False,False,False,289.167793596
+SULTHIAME,NS(=O)(=O)c1ccc(N2CCCCS2(=O)=O)cc1,CHEMBL328560,,Small molecule,Anticonvulsant,0,False,0,True,0,False,False,False,290.039498928
+METHENAMINE MANDELATE,C1N2CN3CN1CN(C2)C3.O=C(O)C(O)c1ccccc1,CHEMBL3833312,,Small molecule,,0,False,0,True,0,False,False,False,292.15354049999996
+DIMETHINDENE,CC(C1=C(CCN(C)C)Cc2ccccc21)c1ccccn1,CHEMBL22108,,Small molecule,Antihistaminic,0,False,0,True,0,False,False,False,292.193948768
+LUMIRACOXIB,Cc1ccc(Nc2c(F)cccc2Cl)c(CC(=O)O)c1,CHEMBL404108,,Small molecule,,0,True,0,True,0,False,False,False,293.061884556
+BUTRIPTYLINE,CC(CC1c2ccccc2CCc2ccccc21)CN(C)C,CHEMBL2110816,,Small molecule,Antidepressant,0,False,0,True,0,False,False,False,293.214349864
+ROSOXACIN,CCn1cc(C(=O)O)c(=O)c2ccc(-c3ccncc3)cc21,CHEMBL291157,,Small molecule,Antibacterial,0,False,0,True,0,False,False,False,294.100442308
+DOTHIEPIN,CN(C)CC/C=C1\c2ccccc2CSc2ccccc21,CHEMBL1492500,,Small molecule,Antidepressant,0,False,0,True,0,False,False,False,295.139470672
+TERTATOLOL,CC(C)(C)NCC(O)COc1cccc2c1SCCC2,CHEMBL434200,,Small molecule,,0,False,0,True,0,False,False,False,295.16060004
+DIBENZEPIN,CN(C)CCN1C(=O)c2ccccc2N(C)c2ccccc21,CHEMBL1442422,,Small molecule,Antidepressant,0,False,0,True,0,False,False,False,295.168462292
+PIRIBEDIL,c1cnc(N2CCN(Cc3ccc4c(c3)OCO4)CC2)nc1,CHEMBL1371770,,Small molecule,,0,False,0,True,0,False,False,False,298.142975816
+MINAPRINE,Cc1cc(-c2ccccc2)nnc1NCCN1CCOCC1,CHEMBL278819,,Small molecule,"Antidepressant,Psychotropic",0,True,0,True,0,False,False,False,298.179361324
+HYDROCODONE,COc1ccc2c3c1O[C@H]1C(=O)CC[C@H]4[C@@H](C2)N(C)CC[C@]314,CHEMBL1457,,Small molecule,Antitussive,0,False,0,True,1,False,False,False,299.152143532
+MIANSERIN HYDROCHLORIDE,CN1CCN2c3ccccc3Cc3ccccc3C2C1.Cl,CHEMBL544428,,Small molecule,Antihistaminic; Serotonin Inhibitor,0,False,0,True,0,False,False,False,300.139326352
+APAZONE,CCCC1C(=O)N2C(N(C)C)=Nc3ccc(C)cc3N2C1=O,CHEMBL1565476,,Small molecule,Anti-Inflammatory,0,False,0,True,0,False,False,False,300.15862588
+METHANDROSTENOLONE,C[C@]12C=CC(=O)C=C1CC[C@@H]1[C@@H]2CC[C@@]2(C)[C@H]1CC[C@]2(C)O,CHEMBL1418176,,Small molecule,,0,True,0,True,1,False,False,False,300.208930136
+ALLYLESTRENOL,C=CC[C@]1(O)CC[C@H]2[C@@H]3CCC4=CCCCC4[C@H]3CC[C@@]21C,CHEMBL2105618,,Small molecule,,0,False,0,True,1,False,False,False,300.245315644
+ANTAZOLINE HYDROCHLORIDE,Cl.c1ccc(CN(CC2=NCCN2)c2ccccc2)cc1,CHEMBL1256819,,Small molecule,,0,False,0,True,0,False,False,False,301.13457531999995
+ISOXSUPRINE,CC(COc1ccccc1)NC(C)C(O)c1ccc(O)cc1,CHEMBL1197051,,Small molecule,Vasodilator,0,False,0,True,0,False,False,False,301.167793596
+NEOSTIGMINE BROMIDE,CN(C)C(=O)Oc1cccc([N+](C)(C)C)c1.[Br-],CHEMBL54126,,Small molecule,Cholinergic,0,False,0,True,0,False,False,False,302.062989948
+CYCLIZINE HYDROCHLORIDE,CN1CCN(C(c2ccccc2)c2ccccc2)CC1.Cl,CHEMBL1324714,,Small molecule,Anti-Emetic,0,False,0,True,0,False,False,False,302.154976416
+FORMESTANE,C[C@]12CCC(=O)C(O)=C1CC[C@@H]1[C@@H]2CC[C@]2(C)C(=O)CC[C@@H]12,CHEMBL132530,,Small molecule,,0,False,0,True,1,False,False,False,302.18819469199997
+RIMITEROL HYDROBROMIDE,Br.Oc1ccc(C(O)C2CCCCN2)cc1O,CHEMBL2000813,,Small molecule,,0,False,0,True,0,False,False,False,303.047005536
+PIPEMIDIC ACID,CCn1cc(C(=O)O)c(=O)c2cnc(N3CCNCC3)nc21,CHEMBL30116,,Small molecule,,0,False,0,True,0,False,False,False,303.133139404
+CHLORPHENOXAMINE,CN(C)CCOC(C)(c1ccccc1)c1ccc(Cl)cc1,CHEMBL2110774,,Small molecule,,0,False,0,True,0,False,False,False,303.138992004
+FENOTEROL,CC(Cc1ccc(O)cc1)NCC(O)c1cc(O)cc(O)c1,CHEMBL32800,,Small molecule,Bronchodilator,0,True,0,True,0,False,False,False,303.147058152
+VILDAGLIPTIN,N#C[C@@H]1CCCN1C(=O)CNC12CC3CC(CC(O)(C3)C1)C2,CHEMBL142703,,Small molecule,,0,False,0,True,0,False,False,False,303.19467704
+METHYLATROPINE,C[N+]1(C)[C@@H]2CC[C@H]1C[C@@H](OC(=O)C(CO)c1ccccc1)C2,CHEMBL1187724,,Small molecule,Anticholinergic,0,False,0,True,0,False,False,False,304.19072011209
+MESTEROLONE,C[C@H]1CC(=O)C[C@@H]2CC[C@H]3[C@@H]4CC[C@H](O)[C@@]4(C)CC[C@@H]3[C@]21C,CHEMBL258918,,Small molecule,Androgen,0,False,0,True,1,False,False,False,304.240230264
+DAPOXETINE,CN(C)[C@@H](CCOc1cccc2ccccc12)c1ccccc1,CHEMBL2110900,,Small molecule,Antidepressant,0,False,0,True,0,False,False,False,305.177964356
+MITOBRONITOL,O[C@@H]([C@H](O)[C@H](O)CBr)[C@H](O)CBr,CHEMBL447629,,Small molecule,,0,False,0,True,0,False,False,False,305.910233064
+TOLNAFTATE,Cc1cccc(N(C)C(=S)Oc2ccc3ccccc3c2)c1,CHEMBL83668,,Small molecule,Antifungal,0,False,0,True,0,False,False,False,307.10308516400005
+NIMESULIDE,CS(=O)(=O)Nc1ccc([N+](=O)[O-])cc1Oc1ccccc1,CHEMBL56367,,Small molecule,,0,True,0,True,0,False,False,False,308.046692484
+GESTRINONE,C#C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CCC4=C3C=C[C@@]21CC,CHEMBL1868702,,Small molecule,Progestin,0,False,0,True,1,False,False,False,308.177630008
+GLYMIDINE,COCCOc1cnc(NS(=O)(=O)c2ccccc2)nc1,CHEMBL1697838,,Small molecule,Antidiabetic,0,False,0,True,0,False,False,False,309.07832696
+BENZYDAMINE,CN(C)CCCOc1nn(Cc2ccccc2)c2ccccc12,CHEMBL12610,,Small molecule,Anti-Inflammatory; Antipyretic; Analgesic,0,False,0,True,0,False,False,False,309.184112356
+SULFADIMETHOXINE,COc1cc(NS(=O)(=O)c2ccc(N)cc2)nc(OC)n1,CHEMBL62193,,Small molecule,,0,True,0,True,1,False,False,False,310.073575928
+BIFONAZOLE,c1ccc(-c2ccc(C(c3ccccc3)n3ccnc3)cc2)cc1,CHEMBL277535,,Small molecule,Antifungal,0,False,0,True,0,False,False,False,310.146998576
+XANTHINOL,CN(CCO)CC(O)Cn1cnc2c1c(=O)n(C)c(=O)n2C,CHEMBL1624126,,Small molecule,,0,False,0,True,1,False,False,False,311.15935415200005
+AMBUTONIUM,CC[N+](C)(C)CCC(C(N)=O)(c1ccccc1)c1ccccc1,CHEMBL2110771,,Small molecule,,0,False,0,True,0,False,False,False,311.21178990409004
+PIRBUTEROL HYDROCHLORIDE,CC(C)(C)NCC(O)c1ccc(O)c(CO)n1.Cl.Cl,CHEMBL3989646,,Small molecule,,0,False,0,True,0,False,False,False,312.100747924
+ARTEMOTIL,CCO[C@H]1O[C@@H]2O[C@@]3(C)CC[C@H]4[C@H](C)CC[C@@H]([C@H]1C)[C@@]24OO3,CHEMBL301267,,Small molecule,,0,False,0,True,1,False,True,False,312.193673996
+TIBOLONE,C#C[C@]1(O)CC[C@H]2[C@@H]3[C@H](C)CC4=C(CCC(=O)C4)[C@H]3CC[C@@]21C,CHEMBL2103774,,Small molecule,Menopausal Symptoms Suppressant,0,False,0,True,1,False,False,False,312.208930136
+FLUNITRAZEPAM,CN1C(=O)CN=C(c2ccccc2F)c2cc([N+](=O)[O-])ccc21,CHEMBL13280,,Small molecule,Sedative-Hypnotic,0,True,0,True,0,False,False,False,313.086269464
+BENORILATE,CC(=O)Nc1ccc(OC(=O)c2ccccc2OC(C)=O)cc1,CHEMBL162036,,Small molecule,,0,False,0,True,0,False,False,False,313.09502258
+REBOXETINE,CCOc1ccccc1OC(c1ccccc1)C1CNCCO1,CHEMBL14370,,Small molecule,,0,False,0,True,0,False,False,False,313.167793596
+BROMAZEPAM,O=C1CN=C(c2ccccn2)c2cc(Br)ccc2N1,CHEMBL277062,,Small molecule,Tranquilizer (minor),0,False,0,True,0,False,False,False,315.00072404
+PENTAERYTHRITOL TETRANITRATE,O=[N+]([O-])OCC(CO[N+](=O)[O-])(CO[N+](=O)[O-])CO[N+](=O)[O-],CHEMBL466659,,Small molecule,Vasodilator,0,False,0,True,0,False,False,False,316.01387169599997
+AMOROLFINE,CCC(C)(C)c1ccc(CC(C)CN2C[C@@H](C)O[C@@H](C)C2)cc1,CHEMBL489411,,Small molecule,Antimycotic,0,False,0,True,0,False,False,False,317.27186474
+CLOTIAZEPAM,CCc1cc2c(s1)N(C)C(=O)CN=C2c1ccccc1Cl,CHEMBL1697737,,Small molecule,,0,False,0,True,0,False,False,False,318.05936178
+PROTHIPENDYL HYDROCHLORIDE,CN(C)CCCN1c2ccccc2Sc2cccnc21.Cl,CHEMBL2107124,,Small molecule,,0,False,0,True,0,False,False,False,321.10664632
+MORPHINE HYDROCHLORIDE,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5.Cl,CHEMBL556578,,Small molecule,,0,False,0,True,1,False,False,False,321.11317118
+PHENAZOCINE,CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,CHEMBL46399,,Small molecule,,0,False,0,True,0,False,False,False,321.209264484
+MEQUITAZINE,c1ccc2c(c1)Sc1ccccc1N2CC1CN2CCC1CC2,CHEMBL73451,,Small molecule,,0,False,0,True,0,False,False,False,322.15036970399996
+GLICLAZIDE,Cc1ccc(S(=O)(=O)NC(=O)NN2CC3CCCC3C2)cc1,CHEMBL427216,,Small molecule,,0,False,0,True,0,False,False,False,323.13036253200005
+PIPERIDOLATE,CCN1CCCC(OC(=O)C(c2ccccc2)c2ccccc2)C1,CHEMBL1623992,,Small molecule,,0,False,0,True,0,False,False,False,323.18852904000005
+CRESOL,Cc1ccc(O)cc1.Cc1cccc(O)c1.Cc1ccccc1O,CHEMBL1410808,,Small molecule,,0,False,0,True,0,False,False,False,324.17254462799997
+PIXANTRONE,NCCNc1ccc(NCCN)c2c1C(=O)c1ccncc1C2=O,CHEMBL167731,,Small molecule,,0,False,0,True,0,False,False,False,325.153874848
+ERGONOVINE,C[C@@H](CO)NC(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1,CHEMBL119443,,Small molecule,Oxytocic,0,False,0,True,1,False,False,False,325.17902697600005
+IFENPRODIL,CC(C(O)c1ccc(O)cc1)N1CCC(Cc2ccccc2)CC1,CHEMBL305187,,Small molecule,,0,False,0,True,0,False,False,False,325.20417910400005
+DILOXANIDE FUROATE,CN(C(=O)C(Cl)Cl)c1ccc(OC(=O)c2ccco2)cc1,CHEMBL1334860,,Small molecule,,0,False,0,True,0,False,False,False,327.006513192
+LACHESINE,CC[N+](C)(C)CCOC(=O)C(O)(c1ccccc1)c1ccccc1,CHEMBL2110848,,Small molecule,,0,False,0,True,0,False,False,False,328.19072011209
+NOMEGESTROL,CC(=O)[C@@]1(O)CC[C@H]2[C@@H]3C=C(C)C4=CC(=O)CC[C@@H]4[C@H]3CC[C@@]21C,CHEMBL2105722,,Small molecule,,0,False,0,True,1,False,False,False,328.20384475599997
+ZOTEPINE,CN(C)CCOC1=Cc2ccccc2Sc2ccc(Cl)cc21,CHEMBL285802,,Small molecule,,0,False,0,True,0,False,False,False,331.07976287599996
+DOTHIEPIN HYDROCHLORIDE,CN(C)CC/C=C1\c2ccccc2CSc2ccccc21.Cl,CHEMBL1711280,,Small molecule,Antidepressant,0,False,0,True,0,False,False,False,331.116148384
+DIBENZEPIN HYDROCHLORIDE,CN(C)CCN1C(=O)c2ccccc2N(C)c2ccccc21.Cl,CHEMBL2104287,,Small molecule,Antidepressant,0,False,0,True,0,False,False,False,331.145140004
+OXITROPIUM,CC[N+]1(C)[C@@H]2CC(OC(=O)[C@H](CO)c3ccccc3)C[C@H]1[C@@H]1O[C@@H]12,CHEMBL4297364,,Small molecule,,0,False,0,True,0,False,False,False,332.18563473208997
+PEFLOXACIN,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCN(C)CC3)cc21,CHEMBL267648,,Small molecule,Antibacterial,0,False,0,True,0,False,False,False,333.14886972
+SAXAGLIPTIN,N#C[C@@H]1C[C@@H]2C[C@@H]2N1C(=O)[C@@H](N)C12CC3CC(CC(O)(C3)C1)C2.O,CHEMBL2103745,,Small molecule,,0,False,0,True,0,False,False,False,333.20524172399996
+LORMETAZEPAM,CN1C(=O)C(O)N=C(c2ccccc2Cl)c2cc(Cl)ccc21,CHEMBL22097,,Small molecule,Sedative-Hypnotic,0,False,0,True,0,False,False,False,334.027582984
+PROGLUMIDE,CCCN(CCC)C(=O)C(CCC(=O)O)NC(=O)c1ccccc1,CHEMBL316561,,Small molecule,Anticholinergic,0,True,0,True,0,False,False,False,334.189257312
+DOMIPHEN,CCCCCCCCCCCC[N+](C)(C)CCOc1ccccc1,CHEMBL1187011,,Small molecule,"Anti-Infective, Topical",0,False,0,True,0,False,False,False,334.31044132009
+CETRIMIDE,CCCCCCCCCCCCCC[N+](C)(C)C.[Br-],CHEMBL113150,,Small molecule,,0,False,0,True,0,False,False,False,335.218762316
+TENOXICAM,CN1C(C(=O)Nc2ccccn2)=C(O)c2sccc2S1(=O)=O,CHEMBL302795,,Small molecule,Anti-Inflammatory,0,False,0,True,0,False,False,False,337.019097832
+ISOXSUPRINE HYDROCHLORIDE,CC(COc1ccccc1)NC(C)C(O)c1ccc(O)cc1.Cl,CHEMBL559180,,Small molecule,Vasodilator,0,False,0,True,0,False,False,False,337.144471308
+IDEBENONE,COC1=C(OC)C(=O)C(CCCCCCCCCCO)=C(C)C1=O,CHEMBL252556,,Small molecule,,0,False,0,True,0,False,False,False,338.20932406
+LISURIDE,CCN(CC)C(=O)N[C@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1,CHEMBL157138,,Small molecule,,0,False,0,True,1,False,False,False,338.210661452
+CHLORPHENOXAMINE HYDROCHLORIDE,CN(C)CCOC(C)(c1ccccc1)c1ccc(Cl)cc1.Cl,CHEMBL2105980,,Small molecule,,0,False,0,True,0,False,False,False,339.115669716
+PAPAVERINE,COc1ccc(Cc2nccc3cc(OC)c(OC)cc23)cc1OC,CHEMBL19224,,Small molecule,Relaxant (smooth muscle),0,False,0,True,0,False,False,False,339.147058152
+XAMOTEROL,O=C(NCCNCC(O)COc1ccc(O)cc1)N1CCOCC1,CHEMBL75753,,Small molecule,Stimulant (cardiac),0,False,0,True,0,False,False,False,339.1794209
+HEXETIDINE,CCCCC(CC)CN1CN(CC(CC)CCCC)CC(C)(N)C1,CHEMBL144673,,Small molecule,,0,False,0,True,0,False,False,False,339.36134844000003
+POLDINE,C[N+]1(C)CCCC1COC(=O)C(O)(c1ccccc1)c1ccccc1,CHEMBL2110948,,Small molecule,Anticholinergic,0,False,0,True,0,False,False,False,340.19072011209
+MEDROGESTONE,CC(=O)[C@@]1(C)CC[C@H]2[C@@H]3C=C(C)C4=CC(=O)CC[C@]4(C)[C@H]3CC[C@@]21C,CHEMBL2106825,,Small molecule,Progestin,0,False,0,True,1,False,False,False,340.240230264
+SULPIRIDE,CCN1CCCC1CNC(=O)c1cc(S(N)(=O)=O)ccc1OC,CHEMBL26,,Small molecule,Antidepressant,0,False,0,True,0,False,False,False,341.140927216
+DAPOXETINE HYDROCHLORIDE,CN(C)[C@@H](CCOc1cccc2ccccc12)c1ccccc1.Cl,CHEMBL2106574,,Small molecule,Antidepressant,0,False,0,True,0,False,False,False,341.154642068
+RANELIC ACID,N#Cc1c(N(CC(=O)O)CC(=O)O)sc(C(=O)O)c1CC(=O)O,CHEMBL2107175,,Small molecule,,0,False,0,True,0,False,False,False,342.01578627999993
+CLOTHIAPINE,CN1CCN(C2=Nc3ccccc3Sc3ccc(Cl)cc32)CC1,CHEMBL304902,,Small molecule,Antipsychotic,0,False,0,True,0,False,False,False,343.090996256
+BENZYDAMINE HYDROCHLORIDE,CN(C)CCCOc1nn(Cc2ccccc2)c2ccccc12.Cl,CHEMBL1528134,,Small molecule,Anti-Inflammatory; Antipyretic; Analgesic,0,False,0,True,0,False,False,False,345.160790068
+FLUTRIMAZOLE,Fc1ccc(C(c2ccccc2)(c2ccccc2F)n2ccnc2)cc1,CHEMBL2107430,,Small molecule,,0,False,0,True,0,False,False,False,346.128154952
+INDORAMIN,O=C(NC1CCN(CCc2c[nH]c3ccccc23)CC1)c1ccccc1,CHEMBL279516,,Small molecule,Antihypertensive,0,False,0,True,0,False,False,False,347.19976242
+VERNAKALANT,COc1ccc(CCO[C@@H]2CCCC[C@H]2N2CC[C@@H](O)C2)cc1OC,CHEMBL2111112,,Small molecule,,0,False,0,True,0,False,False,False,349.225308472
+DIPIPANONE,CCC(=O)C(CC(C)N1CCCCC1)(c1ccccc1)c1ccccc1,CHEMBL2111157,,Small molecule,,0,False,0,True,0,False,False,False,349.240564612
+ABIRATERONE,C[C@]12CC[C@H](O)CC1=CC[C@@H]1[C@@H]2CC[C@]2(C)C(c3cccnc3)=CC[C@@H]12,CHEMBL254328,,Small molecule,,0,False,0,True,1,False,False,False,349.240564612
+PHENOTHRIN,CC(C)=CC1C(C(=O)OCc2cccc(Oc3ccccc3)c2)C1(C)C,CHEMBL1322884,,Small molecule,,0,True,0,True,0,False,False,False,350.18819469199997
+VINPOCETINE,CCOC(=O)C1=C[C@]2(CC)CCCN3CCc4c(n1c1ccccc41)[C@@H]32,CHEMBL71752,,Small molecule,,0,False,0,True,0,False,False,False,350.199428072
+PIRENZEPINE,CN1CCN(CC(=O)N2c3ccccc3C(=O)Nc3cccnc32)CC1,CHEMBL9967,,Small molecule,Anti-Ulcerative,0,False,0,True,0,False,False,False,351.16952491200004
+CHLOROPHENOTHANE,Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1,CHEMBL416898,,Small molecule,,0,False,0,True,0,False,False,False,351.914688688
+ROXADUSTAT,Cc1nc(C(=O)NCC(=O)O)c(O)c2ccc(Oc3ccccc3)cc12,CHEMBL2338329,,Small molecule,,0,False,0,True,0,False,False,False,352.105921612
+ACECLOFENAC,O=C(O)COC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl,CHEMBL93645,,Small molecule,,0,False,0,True,0,False,False,False,353.02216325600006
+ACENOCOUMAROL,CC(=O)CC(c1ccc([N+](=O)[O-])cc1)c1c(O)c2ccccc2oc1=O,CHEMBL397420,,Small molecule,,0,False,0,True,0,False,False,False,353.08993719999995
+XIPAMIDE,Cc1cccc(C)c1NC(=O)c1cc(S(N)(=O)=O)c(Cl)cc1O,CHEMBL517199,,Small molecule,Antihypertensive; Diuretic,0,False,0,True,0,False,False,False,354.04410564
+YOHIMBINE,COC(=O)[C@@H]1[C@H]2C[C@H]3c4[nH]c5ccccc5c4CCN3C[C@@H]2CC[C@@H]1O,CHEMBL15245,,Small molecule,,0,False,0,True,1,False,False,False,354.19434269199996
+HEXAMIDINE,N=C(N)c1ccc(OCCCCCCOc2ccc(C(=N)N)cc2)cc1,CHEMBL25105,,Small molecule,,0,False,0,True,0,False,False,False,354.20557607200004
+PIPENZOLATE,CC[N+]1(C)CCCC(OC(=O)C(O)(c2ccccc2)c2ccccc2)C1,CHEMBL1619528,,Small molecule,,0,False,0,True,0,False,False,False,354.20637017609
+HOMATROPINE HYDROBROMIDE,Br.CN1[C@@H]2CC[C@H]1C[C@@H](OC(=O)C(O)c1ccccc1)C2,CHEMBL1319362,,Small molecule,Anticholinergic,0,False,0,True,0,False,False,False,355.07830566399997
+QUINESTRADOL,C[C@]12CC[C@@H]3c4ccc(OC5CCCC5)cc4CC[C@H]3[C@@H]1C[C@@H](O)[C@@H]2O,CHEMBL2107004,,Small molecule,,0,False,0,True,1,False,False,False,356.23514488399996
+DOPEXAMINE,Oc1ccc(CCNCCCCCCNCCc2ccccc2)cc1O,CHEMBL77622,,Small molecule,Cardiovascular Agent,0,False,0,True,0,False,False,False,356.24637826399993
+TOLRESTAT,COc1ccc2c(C(=S)N(C)CC(=O)O)cccc2c1C(F)(F)F,CHEMBL436,,Small molecule,Inhibitor (aldose reductase),0,True,0,True,0,False,False,False,357.064648968
+NALBUPHINE,Oc1ccc2c3c1O[C@H]1[C@@H](O)CC[C@@]4(O)[C@@H](C2)N(CC2CCC2)CC[C@]314,CHEMBL895,,Small molecule,Antagonist (to narcotics); Analgesic,0,False,0,True,1,False,False,False,357.194008344
+ETORICOXIB,Cc1ccc(-c2ncc(Cl)cc2-c2ccc(S(C)(=O)=O)cc2)cn1,CHEMBL416146,,Small molecule,,0,False,0,True,0,False,False,False,358.0542764
+CANRENOATE,C[C@]12CCC(=O)C=C1C=C[C@@H]1[C@@H]2CC[C@@]2(C)[C@H]1CC[C@@]2(O)CCC(=O)O,CHEMBL1616951,,Small molecule,Aldosterone Antagonist,0,False,0,True,1,False,False,False,358.21440943999994
+PIPERIDOLATE HYDROCHLORIDE,CCN1CCCC(OC(=O)C(c2ccccc2)c2ccccc2)C1.Cl,CHEMBL1511957,,Small molecule,,0,False,0,True,0,False,False,False,359.165206752
+IXAZOMIB,CC(C)C[C@H](NC(=O)CNC(=O)c1cc(Cl)ccc1Cl)B(O)O,CHEMBL2141296,,Small molecule,,0,False,0,True,0,False,False,False,360.081492848
+NITRENDIPINE,CCOC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1cccc([N+](=O)[O-])c1,CHEMBL475534,,Small molecule,Antihypertensive,0,False,0,True,0,False,False,False,360.13213635999995
+QUININE HYDROCHLORIDE,C=C[C@H]1CN2CC[C@H]1C[C@H]2[C@H](O)c1ccnc2ccc(OC)cc12.Cl,CHEMBL588046,,Small molecule,,0,False,0,True,1,False,False,False,360.16045572
+BEZAFIBRATE,CC(C)(Oc1ccc(CCNC(=O)c2ccc(Cl)cc2)cc1)C(=O)O,CHEMBL264374,,Small molecule,Antihyperlipoproteinemic,0,False,0,True,0,False,False,False,361.1080857999999
+EMEPRONIUM BROMIDE,CC[N+](C)(C)C(C)CC(c1ccccc1)c1ccccc1.[Br-],CHEMBL2106122,,Small molecule,,0,False,0,True,0,False,False,False,361.140511996
+PIRETANIDE,NS(=O)(=O)c1cc(C(=O)O)cc(N2CCCC2)c1Oc1ccccc1,CHEMBL349803,,Small molecule,Diuretic,0,False,0,True,0,False,False,False,362.093642676
+LACHESINE CHLORIDE,CC[N+](C)(C)CCOC(=O)C(O)(c1ccccc1)c1ccccc1.[Cl-],CHEMBL2106313,,Small molecule,,0,False,0,True,0,False,False,False,363.160121372
+PHENETHICILLIN,CC(Oc1ccccc1)C(=O)N[C@@H]1C(=O)N2[C@@H]1SC(C)(C)[C@@H]2C(=O)O,CHEMBL1614637,,Small molecule,,0,False,0,True,1,False,False,False,364.10929273999994
+LEVOMEPROMAZINE HYDROCHLORIDE,COc1ccc2c(c1)N(C[C@H](C)CN(C)C)c1ccccc1S2.Cl,CHEMBL2104973,,Small molecule,,0,False,0,True,0,False,False,False,364.1376121
+CYCLOFENIL,CC(=O)Oc1ccc(C(=C2CCCCC2)c2ccc(OC(C)=O)cc2)cc1,CHEMBL141305,,Small molecule,,0,True,0,True,0,False,False,False,364.16745924799994
+PERICIAZINE,N#Cc1ccc2c(c1)N(CCCN1CCC(O)CC1)c1ccccc1S2,CHEMBL251940,,Small molecule,,0,False,0,True,0,False,False,False,365.156183356
+GLIBORNURIDE,Cc1ccc(S(=O)(=O)NC(=O)N[C@H]2[C@H]3CC[C@@](C)([C@H]2O)C3(C)C)cc1,CHEMBL529888,,Small molecule,Antidiabetic,0,False,0,True,0,False,False,False,366.16132831199997
+METHYLATROPINE NITRATE,C[N+]1(C)[C@@H]2CC[C@H]1C[C@@H](OC(=O)C(CO)c1ccccc1)C2.O=[N+]([O-])[O-],CHEMBL516476,,Small molecule,Anticholinergic,0,False,0,True,0,False,False,False,366.17908655199994
+PROPIVERINE,CCCOC(C(=O)OC1CCN(C)CC1)(c1ccccc1)c1ccccc1,CHEMBL1078261,,Small molecule,,0,False,0,True,0,False,False,False,367.214743788
+DIACEREIN,CC(=O)Oc1cccc2c1C(=O)c1c(OC(C)=O)cc(C(=O)O)cc1C2=O,CHEMBL41286,,Small molecule,,0,False,0,True,0,False,False,False,368.05321734399996
+KETAZOLAM,CC1=CC(=O)N2CC(=O)N(C)c3ccc(Cl)cc3C2(c2ccccc2)O1,CHEMBL2104356,,Small molecule,Tranquilizer (minor),0,False,0,True,0,False,False,False,368.092770084
+CINNARIZINE,C(=C/c1ccccc1)\CN1CCN(C(c2ccccc2)c2ccccc2)CC1,CHEMBL43064,,Small molecule,Antihistaminic,0,False,0,True,0,False,False,False,368.225248896
+PRAJMALIUM,CCC[N+]12[C@H](O)[C@@H](CC)[C@@H]3C[C@H]1[C@@H]1N(C)c4ccccc4[C@]14C[C@H]2[C@@H]3[C@H]4O,CHEMBL3833382,,Small molecule,,0,False,0,True,1,False,False,False,369.25365471609
+PARECOXIB,CCC(=O)NS(=O)(=O)c1ccc(-c2c(-c3ccccc3)noc2C)cc1,CHEMBL1206690,,Small molecule,,0,False,0,True,0,False,False,False,370.09872805599997
+TEDIZOLID,Cn1nnc(-c2ccc(-c3ccc(N4C[C@H](CO)OC4=O)cc3F)cn2)n1,CHEMBL1257051,,Small molecule,,0,False,0,True,0,False,False,False,370.11896656000005
+MINAPRINE HYDROCHLORIDE,Cc1cc(-c2ccccc2)nnc1NCCN1CCOCC1.Cl.Cl,CHEMBL1364551,,Small molecule,,0,True,0,True,0,False,False,False,370.132716748
+LORNOXICAM,CN1C(C(=O)Nc2ccccn2)=C(O)c2sc(Cl)cc2S1(=O)=O,CHEMBL1569487,,Small molecule,Anti-Inflammatory; Analgesic,0,False,0,True,0,False,False,False,370.9801254799999
+CLEBOPRIDE,COc1cc(N)c(Cl)cc1C(=O)NC1CCN(Cc2ccccc2)CC1,CHEMBL325109,,Small molecule,Anti-Emetic,0,False,0,True,0,False,False,False,373.155704688
+BROMHEXINE,CN(Cc1cc(Br)cc(Br)c1N)C1CCCCC1,CHEMBL253376,,Small molecule,Expectorant; Mucolytic,0,False,0,True,0,False,False,False,373.99932284000005
+PAPAVERINE HYDROCHLORIDE,COc1ccc(Cc2nccc3cc(OC)c(OC)cc23)cc1OC.Cl,CHEMBL98123,,Small molecule,Relaxant (smooth muscle),0,False,0,True,0,False,False,False,375.12373586399997
+PICOTAMIDE,COc1ccc(C(=O)NCc2cccnc2)cc1C(=O)NCc1cccnc1,CHEMBL1257015,,Small molecule,,0,False,0,True,0,False,False,False,376.1535405
+ESTRADIOL BENZOATE,C[C@]12CC[C@@H]3c4ccc(OC(=O)c5ccccc5)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,CHEMBL282575,,Small molecule,,0,False,0,True,1,False,False,False,376.20384475599997
+FLUOCORTOLONE,C[C@@H]1C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@H]3[C@@H](O)C[C@]2(C)[C@H]1C(=O)CO,CHEMBL251634,,Small molecule,Glucocorticoid,0,False,0,True,1,False,False,False,376.20498762799997
+CARBENICILLIN,CC1(C)S[C@@H]2[C@H](NC(=O)C(C(=O)O)c3ccccc3)C(=O)N2[C@H]1C(=O)O,CHEMBL1214,,Small molecule,Antibacterial,0,False,0,True,1,False,False,False,378.0885572959999
+PROPICILLIN,CCC(Oc1ccccc1)C(=O)N[C@@H]1C(=O)N2[C@@H]1SC(C)(C)[C@@H]2C(=O)O,CHEMBL2105612,,Small molecule,,0,False,0,True,1,False,False,False,378.12494280399994
+CYCLOPENTHIAZIDE,NS(=O)(=O)c1cc2c(cc1Cl)NC(CC1CCCC1)NS2(=O)=O,CHEMBL1373254,,Small molecule,Antihypertensive,0,False,0,True,0,False,False,False,379.0427257359999
+OXYPERTINE,COc1cc2[nH]c(C)c(CCN3CCN(c4ccccc4)CC3)c2cc1OC,CHEMBL2107011,,Small molecule,Antidepressant,0,False,0,True,0,False,False,False,379.225977168
+CELIPROLOL,CCN(CC)C(=O)Nc1ccc(OCC(O)CNC(C)(C)C)c(C(C)=O)c1,CHEMBL27810,,Small molecule,Anti-Adrenergic (beta-receptor),0,False,0,True,0,False,False,False,379.247106536
+BENPERIDOL,O=C(CCCN1CCC(n2c(=O)[nH]c3ccccc32)CC1)c1ccc(F)cc1,CHEMBL297302,,Small molecule,Antipsychotic,0,False,0,True,0,False,False,False,381.18525522799996
+MEFRUSIDE,CN(CC1(C)CCCO1)S(=O)(=O)c1ccc(Cl)c(S(N)(=O)=O)c1,CHEMBL2105131,,Small molecule,Diuretic,0,False,0,True,0,False,False,False,382.04239138800006
+RACECADOTRIL,CC(=O)SCC(Cc1ccccc1)C(=O)NCC(=O)OCc1ccccc1,CHEMBL2103772,,Small molecule,,0,False,0,True,0,False,False,False,385.13477921599997
+DIPIPANONE HYDROCHLORIDE,CCC(=O)C(CC(C)N1CCCCC1)(c1ccccc1)c1ccccc1.Cl,CHEMBL2107606,,Small molecule,,0,False,0,True,0,False,False,False,385.217242324
+AMOXICILLIN SODIUM,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)c3ccc(O)cc3)C(=O)N2[C@H]1C(=O)[O-].[Na+],CHEMBL2105950,,Small molecule,,0,False,0,True,1,False,False,False,387.086485956
+BARBEXACLONE,CCC1(c2ccccc2)C(=O)NC(=O)NC1=O.CNC(C)CC1CCCCC1,CHEMBL3833301,,Small molecule,,0,False,0,True,0,False,False,False,387.252191916
+ZOPICLONE,CN1CCN(C(=O)OC2c3nccnc3C(=O)N2c2ccc(Cl)cn2)CC1,CHEMBL135400,,Small molecule,,0,False,0,True,0,False,False,False,388.10506608400004
+REPROTEROL,Cn1c(=O)c2c(ncn2CCCNCC(O)c2cc(O)cc(O)c2)n(C)c1=O,CHEMBL1095607,,Small molecule,Bronchodilator,0,False,0,True,1,False,False,False,389.16991883599997
+AMBUTONIUM BROMIDE,CC[N+](C)(C)CCC(C(N)=O)(c1ccccc1)c1ccccc1.[Br-],CHEMBL2105972,,Small molecule,,0,False,0,True,0,False,False,False,390.1306755840001
+YOHIMBINE HYDROCHLORIDE,COC(=O)[C@@H]1[C@H]2C[C@H]3c4[nH]c5ccccc5c4CCN3C[C@@H]2CC[C@@H]1O.Cl,CHEMBL537669,,Small molecule,,0,False,0,True,1,False,False,False,390.171020404
+FONAZINE,CC(CN1c2ccccc2Sc2ccc(S(=O)(=O)N(C)C)cc21)N(C)C,CHEMBL346977,,Small molecule,Serotonin Inhibitor,0,False,0,True,0,False,False,False,391.13881904000004
+PARECOXIB SODIUM,CCC(=O)[N-]S(=O)(=O)c1ccc(-c2c(-c3ccccc3)noc2C)cc1.[Na+],CHEMBL296913,,Small molecule,,0,False,0,True,0,False,False,False,392.0806723040001
+DEXTROMORAMIDE,C[C@@H](CC(C(=O)N1CCCC1)(c1ccccc1)c1ccccc1)N1CCOCC1,CHEMBL3833389,,Small molecule,,0,False,0,True,0,False,False,False,392.246378264
+AMSACRINE,COc1cc(NS(C)(=O)=O)ccc1Nc1c2ccccc2nc2ccccc12,CHEMBL43,,Small molecule,Antineoplastic,0,False,0,True,0,False,False,False,393.11471246800005
+IODOFORM,IC(I)I,CHEMBL1451116,,Small molecule,,0,False,0,True,0,False,False,False,393.721244032
+DIFLUCORTOLONE,C[C@@H]1C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@H]1C(=O)CO,CHEMBL509924,,Small molecule,Glucocorticoid,0,False,0,True,1,False,False,False,394.19556581599994
+GEMEPROST,CCCCC(C)(C)[C@H](O)/C=C/[C@H]1[C@H](O)CC(=O)[C@@H]1CCCC/C=C/C(=O)OC,CHEMBL1908315,,Small molecule,Prostaglandin,0,False,0,True,1,False,False,False,394.2719243159999
+KETANSERIN,O=C(c1ccc(F)cc1)C1CCN(CCn2c(=O)[nH]c3ccccc3c2=O)CC1,CHEMBL51,,Small molecule,Serotonin Antagonist,0,False,0,True,1,False,False,False,395.16451978399994
+QUININE DIHYDROCHLORIDE,C=C[C@H]1CN2CC[C@H]1C[C@H]2[C@H](O)c1ccnc2ccc(OC)cc12.Cl.Cl,CHEMBL2146088,,Small molecule,,0,False,0,True,1,False,False,False,396.137133432
+CANRENOATE POTASSIUM,C[C@]12CCC(=O)C=C1C=C[C@@H]1[C@@H]2CC[C@@]2(C)[C@H]1CC[C@@]2(O)CCC(=O)[O-].[K+],CHEMBL1371200,,Small molecule,Aldosterone Antagonist,0,False,0,True,1,False,False,False,396.17029108799994
+ADEMETIONINE,C[S+](CC[C@H](N)C(=O)[O-])C[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1O,CHEMBL1088977,,Small molecule,,0,False,0,True,1,False,False,False,398.137238804
+PHOLCODINE,CN1CC[C@]23c4c5ccc(OCCN6CCOCC6)c4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5,CHEMBL2105224,,Small molecule,,0,False,0,True,1,False,False,False,398.22055743999994
+DIHYDROTACHYSTEROL,CC(C)[C@@H](C)/C=C/[C@@H](C)[C@H]1CC[C@H]2/C(=C/C=C3\C[C@@H](O)CC[C@@H]3C)CCC[C@]12C,CHEMBL2356023,,Small molecule,,0,False,0,True,1,False,False,False,398.354866092
+ALFACALCIDOL,C=C1/C(=C\C=C2/CCC[C@]3(C)[C@@H]([C@H](C)CCCC(C)C)CC[C@@H]23)C[C@@H](O)C[C@@H]1O,CHEMBL1601669,,Small molecule,,0,False,0,True,1,False,False,False,400.3341306479999
+PHENAZOCINE HYDROBROMIDE,Br.CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,CHEMBL2107297,,Small molecule,,0,False,0,True,0,False,False,False,401.135426616
+PHENETHICILLIN POTASSIUM,CC(Oc1ccccc1)C(=O)N[C@@H]1C(=O)N2[C@@H]1SC(C)(C)[C@@H]2C(=O)[O-].[K+],CHEMBL2364720,,Small molecule,,0,False,0,True,1,False,False,False,402.06517438799995
+DEHYDROCHOLIC ACID,C[C@H](CCC(=O)O)[C@H]1CC[C@H]2[C@@H]3C(=O)C[C@@H]4CC(=O)CC[C@]4(C)[C@H]3CC(=O)[C@]12C,CHEMBL514446,,Small molecule,Choleretic,0,False,0,True,1,False,False,False,402.24062418799997
+PHTHALYLSULFATHIAZOLE,O=C(O)c1ccccc1C(=O)Nc1ccc(S(=O)(=O)Nc2nccs2)cc1,CHEMBL1524273,,Small molecule,,0,False,0,True,0,False,False,False,403.02966251600003
+METERGOLINE,CN1C[C@H](CNC(=O)OCc2ccccc2)C[C@@H]2c3cccc4c3c(cn4C)C[C@H]21,CHEMBL19215,,Small molecule,,0,False,0,True,1,False,False,False,403.22597716800004
+FLUNARIZINE,Fc1ccc(C(c2ccc(F)cc2)N2CCN(C/C=C/c3ccccc3)CC2)cc1,CHEMBL30008,,Small molecule,Vasodilator,0,False,0,True,0,False,False,False,404.206405272
+IMIDAPRIL,CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N1C(=O)N(C)C[C@H]1C(=O)O,CHEMBL317094,,Small molecule,,0,False,0,True,0,False,False,False,405.189985584
+PENAMECILLIN,CC(=O)OCOC(=O)[C@@H]1N2C(=O)[C@@H](NC(=O)Cc3ccccc3)[C@H]2SC1(C)C,CHEMBL2106988,,Small molecule,Antibacterial,0,False,0,True,1,False,False,False,406.11985742400003
+DIMETHINDENE MALEATE,CC(C1=C(CCN(C)C)Cc2ccccc21)c1ccccn1.O=C(O)/C=C\C(=O)O,CHEMBL1870768,,Small molecule,Antihistaminic,0,False,0,True,0,False,False,False,408.2049073759999
+TRIFLUPERIDOL,O=C(CCCN1CCC(O)(c2cccc(C(F)(F)F)c2)CC1)c1ccc(F)cc1,CHEMBL15023,,Small molecule,Antipsychotic,0,False,0,True,0,False,False,False,409.16649185600005
+BROMHEXINE HYDROCHLORIDE,CN(Cc1cc(Br)cc(Br)c1N)C1CCCCC1.Cl,CHEMBL1319139,,Small molecule,Expectorant; Mucolytic,0,False,0,True,0,False,False,False,409.9760005520001
+OXITROPIUM BROMIDE,CC[N+]1(C)[C@@H]2CC(OC(=O)[C@H](CO)c3ccccc3)C[C@H]1[C@@H]1O[C@@H]12.[Br-],CHEMBL4297109,,Small molecule,,0,False,0,True,0,False,False,False,411.10452041199994
+PHENINDAMINE TARTRATE,CN1CCC2=C(C1)C(c1ccccc1)c1ccccc12.O=C(O)C(O)C(O)C(=O)O,CHEMBL2107213,,Small molecule,,0,False,0,True,0,False,False,False,411.1681875199999
+NOSCAPINE,COc1ccc2c(c1OC)C(=O)O[C@@H]2[C@H]1c2c(cc3c(c2OC)OCO3)CCN1C,CHEMBL364713,,Small molecule,Antitussive,0,False,0,True,0,False,False,False,413.147452076
+PHYSOSTIGMINE SALICYLATE,CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C.O=C(O)c1ccccc1O,CHEMBL338975,,Small molecule,Cholinergic (ophthalmic),0,False,0,True,0,False,False,False,413.19507096399997
+DOMIPHEN BROMIDE,CCCCCCCCCCCC[N+](C)(C)CCOc1ccccc1.[Br-],CHEMBL486696,,Small molecule,"Anti-Infective, Topical",0,False,0,True,0,False,False,False,413.22932699999996
+LASOFOXIFENE,Oc1ccc2c(c1)CC[C@H](c1ccccc1)[C@@H]2c1ccc(OCCN2CCCC2)cc1,CHEMBL328190,,Small molecule,,0,False,0,True,0,False,False,False,413.23547923200005
+ISOCONAZOLE,Clc1ccc(C(Cn2ccnc2)OCc2c(Cl)cccc2Cl)c(Cl)c1,CHEMBL1571863,,Small molecule,Antifungal; Antibacterial,0,False,0,True,0,False,False,False,413.98602378799995
+GESTONORONE CAPROATE,CCCCCC(=O)O[C@]1(C(C)=O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@@]21C,CHEMBL2107389,,Small molecule,Progestin,0,False,0,True,1,False,False,False,414.27700969599994
+ACEMETACIN,COc1ccc2c(c1)c(CC(=O)OCC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1,CHEMBL189171,,Small molecule,,0,False,0,True,0,False,False,False,415.082264976
+CELIPROLOL HYDROCHLORIDE,CCN(CC)C(=O)Nc1ccc(OCC(O)CNC(C)(C)C)c(C(C)=O)c1.Cl,CHEMBL1742424,,Small molecule,Anti-Adrenergic (beta-receptor),0,False,0,True,0,False,False,False,415.22378424799996
+TROVAFLOXACIN,N[C@@H]1[C@H]2CN(c3nc4c(cc3F)c(=O)c(C(=O)O)cn4-c3ccc(F)cc3F)C[C@@H]12,CHEMBL428,,Small molecule,Antibacterial,0,False,0,True,0,False,False,False,416.10962500000005
+CYPROTERONE ACETATE,CC(=O)O[C@]1(C(C)=O)CC[C@H]2[C@@H]3C=C(Cl)C4=CC(=O)[C@@H]5C[C@@H]5[C@]4(C)[C@H]3CC[C@@]21C,CHEMBL139835,,Small molecule,Anti-Androgen,0,False,0,True,1,False,False,False,416.175437088
+DISTIGMINE,CN(CCCCCCN(C)C(=O)Oc1ccc[n+](C)c1)C(=O)Oc1ccc[n+](C)c1,CHEMBL1199307,,Small molecule,,0,False,0,True,0,False,False,False,416.24125834418
+TACALCITOL,C=C1/C(=C\C=C2/CCC[C@]3(C)[C@@H]([C@H](C)CC[C@@H](O)C(C)C)CC[C@@H]23)C[C@@H](O)C[C@@H]1O,CHEMBL2105611,,Small molecule,,0,False,0,True,1,False,False,False,416.32904526799996
+CILAZAPRIL,CCOC(=O)[C@H](CCc1ccccc1)N[C@H]1CCCN2CCC[C@@H](C(=O)O)N2C1=O,CHEMBL515606,,Small molecule,Antihypertensive,0,False,0,True,0,False,False,False,417.22637109199997
+CALCIUM DOBESILATE,O=S(=O)([O-])c1cc(O)ccc1O.O=S(=O)([O-])c1cc(O)ccc1O.[Ca+2],CHEMBL2106191,,Small molecule,,0,False,0,True,0,False,False,False,417.9341295
+LOFEPRAMINE,CN(CCCN1c2ccccc2CCc2ccccc21)CC(=O)c1ccc(Cl)cc1,CHEMBL87708,,Small molecule,Antidepressant,0,False,0,True,0,False,False,False,418.181191164
+BROMPERIDOL,O=C(CCCN1CCC(O)(c2ccc(Br)cc2)CC1)c1ccc(F)cc1,CHEMBL28218,,Small molecule,Antipsychotic,0,False,0,True,0,False,False,False,419.089619296
+BENZBROMARONE,CCc1oc2ccccc2c1C(=O)c1cc(Br)c(O)c(Br)c1,CHEMBL388590,,Small molecule,Uricosuric,0,True,0,True,0,False,False,False,421.9153184439999
+CEFUROXIME,CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(COC(N)=O)CS[C@H]12)c1ccco1,CHEMBL1436,,Small molecule,Antibacterial,0,False,0,True,1,False,False,False,424.068884472
+SOTAGLIFLOZIN,CCOc1ccc(Cc2cc([C@@H]3O[C@H](SC)[C@@H](O)[C@H](O)[C@H]3O)ccc2Cl)cc1,CHEMBL3039507,,Small molecule,,0,False,0,True,1,False,False,False,424.11112257999997
+REPROTEROL HYDROCHLORIDE,Cl.Cn1c(=O)c2c(ncn2CCCNCC(O)c2cc(O)cc(O)c2)n(C)c1=O,CHEMBL2104771,,Small molecule,Bronchodilator,0,False,0,True,1,False,False,False,425.14659654799993
+FILGOTINIB,O=C(Nc1nc2cccc(-c3ccc(CN4CCS(=O)(=O)CC4)cc3)n2n1)C1CC1,CHEMBL3301607,,Small molecule,,0,False,0,True,0,False,False,False,425.152160596
+DOMPERIDONE,O=c1[nH]c2ccccc2n1CCCN1CCC(n2c(=O)[nH]c3cc(Cl)ccc32)CC1,CHEMBL219916,,Small molecule,Anti-Emetic,0,False,0,True,0,False,False,False,425.161852688
+OXATOMIDE,O=c1[nH]c2ccccc2n1CCCN1CCN(C(c2ccccc2)c2ccccc2)CC1,CHEMBL13828,,Small molecule,Anti-Allergic; Anti-Asthmatic,0,False,0,True,0,False,False,False,426.24196158
+DOPEXAMINE HYDROCHLORIDE,Cl.Cl.Oc1ccc(CCNCCCCCCNCCc2ccccc2)cc1O,CHEMBL3989581,,Small molecule,,0,False,0,True,0,False,False,False,428.199733688
+MEBEVERINE,CCN(CCCCOC(=O)c1ccc(OC)c(OC)c1)C(C)Cc1ccc(OC)cc1,CHEMBL282121,,Small molecule,Relaxant (smooth muscle),0,False,0,True,0,False,False,False,429.25152321999997
+MIZOLASTINE,CN(c1nccc(=O)[nH]1)C1CCN(c2nc3ccccc3n2Cc2ccc(F)cc2)CC1,CHEMBL94454,,Small molecule,,0,False,0,True,0,False,False,False,432.20738764000004
+PIPENZOLATE BROMIDE,CC[N+]1(C)CCCC(OC(=O)C(O)(c2ccccc2)c2ccccc2)C1.[Br-],CHEMBL1401367,,Small molecule,,0,False,0,True,0,False,False,False,433.125255856
+ULIPRISTAL,CC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CCC4=C3[C@@H](c3ccc(N(C)C)cc3)C[C@@]21C,CHEMBL2103846,,Small molecule,,0,False,0,True,1,False,False,False,433.26169398
+XANTHINOL NIACINATE,CN(CCO)CC(O)Cn1cnc2c1c(=O)n(C)c(=O)n2C.O=C(O)c1cccnc1,CHEMBL1560089,,Small molecule,,0,False,0,True,1,False,False,False,434.191382552
+LAROPIPRANT,CS(=O)(=O)c1cc(F)cc2c3c(n(Cc4ccc(Cl)cc4)c12)[C@@H](CC(=O)O)CC3,CHEMBL426559,,Small molecule,,0,True,0,True,0,False,False,False,435.07073498799997
+SCOPOLAMINE HYDROBROMIDE,Br.CN1[C@@H]2C[C@@H](OC(=O)[C@H](CO)c3ccccc3)C[C@H]1[C@@H]1O[C@@H]12.O.O.O,CHEMBL2251240,,Small molecule,,0,False,0,True,0,False,False,False,437.10491433599987
+ISAVUCONAZOLE,C[C@@H](c1nc(-c2ccc(C#N)cc2)cs1)[C@](O)(Cn1cncn1)c1cc(F)ccc1F,CHEMBL409153,,Small molecule,,0,False,0,True,0,False,False,False,437.1121876040001
+FLUPHENAZINE,OCCN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,CHEMBL726,,Small molecule,Antipsychotic,0,False,0,True,0,False,False,False,437.17486811199996
+AMDINOCILLIN PIVOXIL,CC(C)(C)C(=O)OCOC(=O)[C@@H]1N2C(=O)[C@@H](/N=C/N3CCCCCC3)[C@H]2SC1(C)C,CHEMBL1650818,,Small molecule,Antibacterial,0,False,0,True,1,False,False,False,439.214092156
+SERTINDOLE,O=C1NCCN1CCN1CCC(c2cn(-c3ccc(F)cc3)c3ccc(Cl)cc23)CC1,CHEMBL12713,,Small molecule,Antipsychotic; Neuroleptic,0,True,0,True,0,False,False,False,440.177917352
+MIDAZOLAM MALEATE,Cc1ncc2n1-c1ccc(Cl)cc1C(c1ccccc1F)=NC2.O=C(O)/C=C\C(=O)O,CHEMBL2106922,,Small molecule,Anesthetic (intravenous),0,False,0,True,0,False,False,False,441.08916192399994
+ERGONOVINE MALEATE,C[C@@H](CO)NC(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1.O=C(O)/C=C\C(=O)O,CHEMBL1213135,,Small molecule,Oxytocic,0,False,0,True,1,False,False,False,441.18998558399994
+BEPHENIUM HYDROXYNAPHTHOATE,C[N+](C)(CCOc1ccccc1)Cc1ccccc1.O=C([O-])c1cc2ccccc2cc1O,CHEMBL1673148,,Small molecule,,0,False,0,True,0,False,False,False,443.20965840799994
+LEVOMEPROMAZINE MALEATE,COc1ccc2c(c1)N(C[C@H](C)CN(C)C)c1ccccc1S2.O=C(O)/C=C\C(=O)O,CHEMBL1725730,,Small molecule,,0,False,0,True,0,False,False,False,444.1718929959999
+THIOPROPAZATE,CC(=O)OCCN1CCN(CCCN2c3ccccc3Sc3ccc(Cl)cc32)CC1,CHEMBL1697851,,Small molecule,,0,False,0,True,0,False,False,False,445.159075816
+DEBRISOQUIN SULFATE,N=C(N)N1CCc2ccccc2C1.N=C(N)N1CCc2ccccc2C1.O=S(=O)(O)O,CHEMBL1593558,,Small molecule,Antihypertensive,0,False,0,True,0,False,False,False,448.1892743759999
+ONAPRISTONE,CN(C)c1ccc([C@H]2C[C@]3(C)[C@@H](CC[C@]3(O)CCCO)[C@@H]3CCC4=CC(=O)CCC4=C32)cc1,CHEMBL1908373,,Small molecule,,0,False,0,True,1,False,False,False,449.292994108
+POLDINE METHYLSULFATE,COS(=O)(=O)[O-].C[N+]1(C)CCCC1COC(=O)C(O)(c1ccccc1)c1ccccc1,CHEMBL2106739,,Small molecule,Anticholinergic,0,False,0,True,0,False,False,False,451.166473268
+FLOXACILLIN,Cc1onc(-c2c(F)cccc2Cl)c1C(=O)N[C@@H]1C(=O)N2[C@@H]1SC(C)(C)[C@@H]2C(=O)O,CHEMBL222645,,Small molecule,Antibacterial,0,False,0,True,1,False,False,False,453.05614754399994
+FENTICONAZOLE,Clc1ccc(C(Cn2ccnc2)OCc2ccc(Sc3ccccc3)cc2)c(Cl)c1,CHEMBL1651990,,Small molecule,Antifungal,0,False,0,True,0,False,False,False,454.06733962
+CARBENICILLIN PHENYL,CC1(C)S[C@@H]2[C@H](NC(=O)C(C(=O)Oc3ccccc3)c3ccccc3)C(=O)N2[C@H]1C(=O)O,CHEMBL1095283,,Small molecule,Antibacterial,0,False,0,True,1,False,False,False,454.1198574239999
+LOFEPRAMINE HYDROCHLORIDE,CN(CCCN1c2ccccc2CCc2ccccc21)CC(=O)c1ccc(Cl)cc1.Cl,CHEMBL2106638,,Small molecule,Antidepressant,0,False,0,True,0,False,False,False,454.15786887599995
+LACIDIPINE,CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1c1ccccc1/C=C/C(=O)OC(C)(C)C,CHEMBL460291,,Small molecule,Antihypertensive,0,False,0,True,0,False,False,False,455.23078777599994
+GLUCOSAMINE SULFATE,N[C@H]1C(O)O[C@H](CO)[C@@H](O)[C@@H]1O.N[C@H]1C(O)O[C@H](CO)[C@@H](O)[C@@H]1O.O=S(=O)(O)O,CHEMBL3989750,,Small molecule,,0,False,0,True,1,False,False,False,456.1261245759999
+DEQUALINIUM,Cc1cc(N)c2ccccc2[n+]1CCCCCCCCCC[n+]1c(C)cc(N)c2ccccc21,CHEMBL333826,,Small molecule,,0,False,0,True,0,False,False,False,456.32420012018
+RALTITREXED,Cc1nc(=O)c2cc(CN(C)c3ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)s3)ccc2[nH]1,CHEMBL225071,,Small molecule,Advanced Colorectal Cancer Treatment (thymidylate synthase inhibitor),0,False,0,True,0,False,False,False,458.1260054239999
+CEFAMANDOLE,Cn1nnnc1SCC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)[C@H](O)c3ccccc3)[C@H]2SC1,CHEMBL1146,,Small molecule,Antibacterial,0,False,0,True,1,False,False,False,462.0780096759999
+PIVAMPICILLIN,CC(C)(C)C(=O)OCOC(=O)[C@@H]1N2C(=O)[C@@H](NC(=O)[C@H](N)c3ccccc3)[C@H]2SC1(C)C,CHEMBL3182343,,Small molecule,,0,False,0,True,1,False,False,False,463.177706648
+BILASTINE,CCOCCn1c(C2CCN(CCc3ccc(C(C)(C)C(=O)O)cc3)CC2)nc2ccccc21,CHEMBL1742423,,Small molecule,,0,False,0,True,0,False,False,False,463.28349204399996
+MEBEVERINE HYDROCHLORIDE,CCN(CCCCOC(=O)c1ccc(OC)c(OC)c1)C(C)Cc1ccc(OC)cc1.Cl,CHEMBL1446650,,Small molecule,Relaxant (smooth muscle),0,False,0,True,0,False,False,False,465.22820093199994
+METHYLPREDNISOLONE ACEPONATE,CCC(=O)O[C@]1(C(=O)COC(C)=O)CC[C@H]2[C@@H]3C[C@H](C)C4=CC(=O)C=C[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C,CHEMBL1697782,,Small molecule,,0,False,0,True,1,False,False,False,472.246103492
+ALVERINE CITRATE,CCN(CCCc1ccccc1)CCCc1ccccc1.O=C(O)CC(O)(CC(=O)O)C(=O)O,CHEMBL1408594,,Small molecule,Anticholinergic,0,False,0,True,0,False,False,False,473.24135245999986
+FLUSPIRILENE,O=C1NCN(c2ccccc2)C12CCN(CCCC(c1ccc(F)cc1)c1ccc(F)cc1)CC2,CHEMBL46516,,Small molecule,Antipsychotic,0,False,0,True,0,False,False,False,475.243519052
+CARBENICILLIN PHENYL SODIUM,CC1(C)S[C@@H]2[C@H](NC(=O)C(C(=O)Oc3ccccc3)c3ccccc3)C(=O)N2[C@H]1C(=O)[O-].[Na+],CHEMBL2105996,,Small molecule,Antibacterial,0,False,0,True,1,False,False,False,476.10180167199997
+FLUNARIZINE HYDROCHLORIDE,Cl.Cl.Fc1ccc(C(c2ccc(F)cc2)N2CCN(C/C=C/c3ccccc3)CC2)cc1,CHEMBL552659,,Small molecule,Vasodilator,0,False,0,True,0,False,False,False,476.159760696
+ALMITRINE,C=CCNc1nc(NCC=C)nc(N2CCN(C(c3ccc(F)cc3)c3ccc(F)cc3)CC2)n1,CHEMBL1183717,,Small molecule,,0,True,0,True,0,False,False,False,477.24525036800003
+CLOBETASONE BUTYRATE,CCCC(=O)O[C@]1(C(=O)CCl)[C@H](C)C[C@@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@]3(F)C(=O)C[C@@]21C,CHEMBL2308885,,Small molecule,Anti-Inflammatory,0,False,0,True,1,False,False,False,478.19223002399997
+HYDROCORTISONE HEMISUCCINATE,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)COC(=O)CCC(=O)O.O,CHEMBL3989663,,Small molecule,,0,False,0,True,1,False,False,False,480.2359327319998
+TALAMPICILLIN,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)c3ccccc3)C(=O)N2[C@H]1C(=O)OC1OC(=O)c2ccccc21,CHEMBL1619785,,Small molecule,Antibacterial,0,False,0,True,1,False,False,False,481.1307564559999
+NICERGOLINE,CO[C@]12C[C@@H](COC(=O)c3cncc(Br)c3)CN(C)[C@@H]1Cc1cn(C)c3cccc2c13,CHEMBL1372950,,Small molecule,Vasodilator,0,False,0,True,1,False,False,False,483.115753792
+FLUCLORONIDE,CC1(C)O[C@@H]2C[C@H]3[C@@H]4C[C@H](F)C5=CC(=O)C=C[C@]5(C)[C@@]4(Cl)[C@@H](Cl)C[C@]3(C)[C@]2(C(=O)CO)O1,CHEMBL461332,,Small molecule,Glucocorticoid,0,False,0,True,1,False,False,False,486.13760760799994
+LIDOFLAZINE,Cc1cccc(C)c1NC(=O)CN1CCN(CCCC(c2ccc(F)cc2)c2ccc(F)cc2)CC1,CHEMBL92870,,Small molecule,Vasodilator (coronary),0,False,0,True,0,False,False,False,491.27481918
+ISOMETHEPTENE MUCATE,CNC(C)CCC=C(C)C.CNC(C)CCC=C(C)C.O=C(O)[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)C(=O)O,CHEMBL2355839,,Small molecule,,0,False,0,True,0,False,False,False,492.34106649599977
+PROMETHAZINE TEOCLATE,CC(CN1c2ccccc2Sc2ccccc21)N(C)C.Cn1c(=O)c2[nH]c(Cl)nc2n(C)c1=O,CHEMBL3833361,,Small molecule,,0,False,0,True,1,False,False,False,498.16047278400004
+NICOTINE BITARTRATE,CN1CCC[C@H]1c1cccnc1.O.O.O=C(O)C(O)C(O)C(=O)O.O=C(O)C(O)C(O)C(=O)O,CHEMBL3989563,,Small molecule,,0,False,0,True,0,False,False,False,498.16970363999974
+MASITINIB,Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nc(-c2cccnc2)cs1,CHEMBL1908391,,Small molecule,,0,False,0,True,0,False,False,False,498.2201805800001
+TRITOQUALINE,CCOc1c(N)c2c(c(OCC)c1OCC)C(C1c3c(cc4c(c3OC)OCO4)CCN1C)OC2=O,CHEMBL2104445,,Small molecule,,0,False,0,True,0,False,False,False,500.2158659839999
+LINZAGOLIX,COc1cc(F)c(-n2c(=O)[nH]c3csc(C(=O)O)c3c2=O)cc1OCc1c(OC)ccc(F)c1F,CHEMBL3668014,,Small molecule,,0,False,0,True,1,False,False,False,508.0552064799999
+CYCLOBARBITAL CALCIUM,CCC1(C2=CCCCC2)C(=O)[N-]C(=O)NC1=O.CCC1(C2=CCCCC2)C(=O)[N-]C(=O)NC1=O.[Ca+2],CHEMBL2106556,,Small molecule,,0,True,0,True,0,False,False,False,510.17912565999995
+PINAVERIUM,COc1cc(Br)c(C[N+]2(CCOCCC3CCC4CC3C4(C)C)CCOCC2)cc1OC,CHEMBL1909324,,Small molecule,,0,False,0,True,0,False,False,False,510.22134731208996
+STRONTIUM RANELATE,N#Cc1c(N(CC(=O)[O-])CC(=O)[O-])sc(C(=O)[O-])c1CC(=O)[O-].[Sr+2].[Sr+2],CHEMBL3707306,,Small molecule,,0,False,0,True,0,False,False,False,513.7957103519999
+CEFPIROME,CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)[O-])=C(C[n+]3cccc4c3CCC4)CS[C@H]12)c1csc(N)n1,CHEMBL65794,,Small molecule,Antibacterial,0,False,0,True,1,False,False,False,514.1093098040002
+BAMETHAN SULFATE,CCCCNCC(O)c1ccc(O)cc1.CCCCNCC(O)c1ccc(O)cc1.O=S(=O)(O)O,CHEMBL2106636,,Small molecule,Vasodilator,0,False,0,True,0,False,False,False,516.2505372399999
+FUSIDIC ACID,CC(=O)O[C@H]1C[C@@]2(C)[C@@H](C[C@@H](O)[C@H]3[C@@]4(C)CC[C@@H](O)[C@@H](C)[C@@H]4CC[C@@]32C)/C1=C(\CCC=C(C)C)C(=O)O,CHEMBL374975,,Small molecule,Antibacterial,0,False,0,True,1,False,False,False,516.3450892559999
+FENTICONAZOLE NITRATE,Clc1ccc(C(Cn2ccnc2)OCc2ccc(Sc3ccccc3)cc2)c(Cl)c1.O=[N+]([O-])O,CHEMBL2107703,,Small molecule,Antifungal,0,False,0,True,0,False,False,False,517.062982512
+TALAMPICILLIN HYDROCHLORIDE,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)c3ccccc3)C(=O)N2[C@H]1C(=O)OC1OC(=O)c2ccccc21.Cl,CHEMBL1411731,,Small molecule,Antibacterial,0,False,0,True,1,False,False,False,517.1074341679999
+THIOPROPAZATE HYDROCHLORIDE,CC(=O)OCCN1CCN(CCCN2c3ccccc3Sc3ccc(Cl)cc32)CC1.Cl.Cl,CHEMBL3989786,,Small molecule,,0,False,0,True,0,False,False,False,517.11243124
+QUININE BISULFATE,C=C[C@H]1CN2CC[C@H]1C[C@H]2[C@H](O)c1ccnc2ccc(OC)cc12.O=S(=O)(O)O.O=S(=O)(O)O,CHEMBL2146083,,Small molecule,,0,False,0,True,1,False,False,False,520.1185370959998
+DEQUALINIUM CHLORIDE,Cc1cc(N)c2ccccc2[n+]1CCCCCCCCCC[n+]1c(C)cc(N)c2ccccc21.[Cl-].[Cl-],CHEMBL121663,,Small molecule,,0,False,0,True,0,False,False,False,526.2630026400001
+GLIQUIDONE,COc1ccc2c(c1)C(=O)N(CCc1ccc(S(=O)(=O)NC(=O)NC3CCCCC3)cc1)C(=O)C2(C)C,CHEMBL383634,,Small molecule,,0,False,0,True,0,False,False,False,527.2090067759999
+CORTIVAZOL,CC(=O)OCC(=O)[C@@]1(O)[C@H](C)C[C@H]2[C@@H]3C=C(C)C4=Cc5c(cnn5-c5ccccc5)C[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C,CHEMBL2105842,,Small molecule,Glucocorticoid,0,False,0,True,1,False,False,False,530.278072316
+PROSCILLARIDIN,C[C@@H]1O[C@@H](O[C@@H]2C=C3CC[C@@H]4[C@H](CC[C@]5(C)[C@@H](c6ccc(=O)oc6)CC[C@]45O)[C@@]3(C)CC2)[C@H](O)[C@H](O)[C@H]1O,CHEMBL600325,,Small molecule,Cardiotonic,0,False,0,True,1,False,False,False,530.2879683039998
+CEFSULODIN,NC(=O)c1cc[n+](CC2=C(C(=O)[O-])N3C(=O)[C@@H](NC(=O)[C@@H](c4ccccc4)S(=O)(=O)O)[C@H]3SC2)cc1,CHEMBL3351077,,Small molecule,,0,False,0,True,1,False,False,False,532.0722555999998
+DELAMANID,C[C@]1(COc2ccc(N3CCC(Oc4ccc(OC(F)(F)F)cc4)CC3)cc2)Cn2cc([N+](=O)[O-])nc2O1,CHEMBL218650,,Small molecule,,0,False,0,True,0,False,False,False,534.17261918
+FUSIDATE SODIUM,CC(=O)O[C@H]1C[C@@]2(C)[C@@H](C[C@@H](O)[C@H]3[C@@]4(C)CC[C@@H](O)[C@@H](C)[C@@H]4CC[C@@]32C)/C1=C(\CCC=C(C)C)C(=O)[O-].[Na+],CHEMBL1256987,,Small molecule,,0,False,0,True,1,False,False,False,538.3270335039999
+DEXTROMORAMIDE TARTRATE,C[C@@H](CC(C(=O)N1CCCC1)(c1ccccc1)c1ccccc1)N1CCOCC1.O=C(O)C(O)C(O)C(=O)O,CHEMBL3833311,,Small molecule,,0,False,0,True,0,False,False,False,542.2628161759999
+DOXORUBICIN,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(C(=O)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1,CHEMBL53463,,Small molecule,Antineoplastic,0,False,0,True,1,False,False,False,543.1740607479999
+BENETHAMINE PENICILLIN,CC1(C)S[C@@H]2[C@H](NC(=O)Cc3ccccc3)C(=O)N2[C@H]1C(=O)O.c1ccc(CCNCc2ccccc2)cc1,CHEMBL2107679,,Small molecule,,0,False,0,True,1,False,False,False,545.2348276
+TELOTRISTAT,Cc1ccn(-c2cc(Cl)ccc2[C@@H](Oc2cc(-c3ccc(C[C@H](N)C(=O)O)cc3)nc(N)n2)C(F)(F)F)n1,CHEMBL2103855,,Small molecule,,0,False,0,True,0,False,False,False,546.1394009040001
+CEFSULODIN SODIUM,NC(=O)c1cc[n+](CC2=C(C(=O)[O-])N3C(=O)[C@@H](NC(=O)[C@@H](c4ccccc4)S(=O)(=O)[O-])[C@H]3SC2)cc1.[Na+],CHEMBL1590946,,Small molecule,,0,False,0,True,1,False,False,False,554.0541998479999
+ACEFYLLINE PIPERAZINE,C1CNCCN1.Cn1c(=O)c2c(ncn2CC(=O)O)n(C)c1=O.Cn1c(=O)c2c(ncn2CC(=O)O)n(C)c1=O,CHEMBL2106660,,Small molecule,,0,False,0,True,1,False,False,False,562.2248079200001
+CARBENOXOLONE,CC1(C)[C@@H](OC(=O)CCC(=O)O)CC[C@]2(C)[C@H]3C(=O)C=C4[C@@H]5C[C@@](C)(C(=O)O)CC[C@]5(C)CC[C@@]4(C)[C@]3(C)CC[C@@H]12,CHEMBL499915,,Small molecule,Glucocorticoid,0,False,0,True,0,False,False,False,570.35565394
+HALQUINOLS,Oc1c(Cl)cc(Cl)c2cccnc12.Oc1c(Cl)ccc2cccnc12.Oc1ccc(Cl)c2cccnc12,CHEMBL3833358,,Small molecule,,0,False,0,True,0,False,False,False,571.0024021239999
+DISTIGMINE BROMIDE,CN(CCCCCCN(C)C(=O)Oc1ccc[n+](C)c1)C(=O)Oc1ccc[n+](C)c1.[Br-].[Br-],CHEMBL1098285,,Small molecule,,0,False,0,True,0,False,False,False,574.0790297039999
+CHLORHEXIDINE HYDROCHLORIDE,Cl.Cl.N=C(NCCCCCCNC(=N)NC(=N)Nc1ccc(Cl)cc1)NC(=N)Nc1ccc(Cl)cc1,CHEMBL1484251,,Small molecule,"Anti-Infective, Topical",0,False,0,True,0,False,False,False,576.1565517440001
+CEFODIZIME,CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(CSc3nc(C)c(CC(=O)O)s3)CS[C@H]12)c1csc(N)n1,CHEMBL2303613,,Small molecule,,0,False,0,True,1,False,False,False,584.0276309799999
+OUABAIN,C[C@@H]1O[C@@H](O[C@H]2C[C@@H](O)[C@]3(CO)[C@H]4[C@H](O)C[C@]5(C)[C@@H](C6=CC(=O)OC6)CC[C@]5(O)[C@@H]4CC[C@]3(O)C2)[C@H](O)[C@H](O)[C@H]1O,CHEMBL222863,,Small molecule,,0,False,0,True,1,False,False,False,584.2832768479999
+PINAVERIUM BROMIDE,COc1cc(Br)c(C[N+]2(CCOCCC3CCC4CC3C4(C)C)CCOCC2)cc1OC.[Br-],CHEMBL1909298,,Small molecule,,0,False,0,True,0,False,False,False,589.1402329919999
+SULTAMICILLIN,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)c3ccccc3)C(=O)N2[C@H]1C(=O)OCOC(=O)[C@@H]1N2C(=O)C[C@H]2S(=O)(=O)C1(C)C,CHEMBL506110,,Small molecule,Antibacterial,0,False,0,True,1,False,False,False,594.1454205399999
+NICOFURANOSE,O=C(OC[C@H]1O[C@](O)(COC(=O)c2cccnc2)[C@@H](OC(=O)c2cccnc2)[C@@H]1OC(=O)c1cccnc1)c1cccnc1,CHEMBL1697844,,Small molecule,,0,False,0,True,1,False,False,False,600.149242968
+LYMECYCLINE,CN(C)[C@@H]1C(O)=C(C(=O)NCNCCCC[C@H](N)C(=O)O)C(=O)[C@@]2(O)C(O)=C3C(=O)c4c(O)cccc4[C@@](C)(O)[C@H]3C[C@@H]12,CHEMBL2103929,,Small molecule,,0,False,0,True,1,False,False,False,602.2587934159999
+DIOSMIN,COc1ccc(-c2cc(=O)c3c(O)cc(O[C@@H]4O[C@H](CO[C@@H]5O[C@@H](C)[C@H](O)[C@@H](O)[C@H]5O)[C@@H](O)[C@H](O)[C@H]4O)cc3o2)cc1O,CHEMBL231884,,Small molecule,,0,False,0,True,1,False,False,False,608.1741203239999
+LERCANIDIPINE,COC(=O)C1=C(C)NC(C)=C(C(=O)OC(C)(C)CN(C)CCC(c2ccccc2)c2ccccc2)C1c1cccc([N+](=O)[O-])c1,CHEMBL250270,,Small molecule,,0,False,0,True,0,False,False,False,611.2995360320001
+CEFPIROME SULFATE,CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)[O-])=C(C[n+]3cccc4c3CCC4)CS[C@H]12)c1csc(N)n1.O=S(=O)(O)O,CHEMBL2106076,,Small molecule,Antibacterial,0,False,0,True,1,False,False,False,612.0766893480002
+CARBENOXOLONE SODIUM,CC1(C)[C@@H](OC(=O)CCC(=O)[O-])CC[C@]2(C)[C@H]3C(=O)C=C4[C@@H]5C[C@@](C)(C(=O)[O-])CC[C@]5(C)CC[C@@]4(C)[C@]3(C)CC[C@@H]12.[Na+].[Na+],CHEMBL1697717,,Small molecule,Glucocorticoid,0,False,0,True,0,False,False,False,614.3195424360001
+TRAMETINIB,CC(=O)Nc1cccc(-n2c(=O)n(C3CC3)c(=O)c3c(Nc4ccc(I)cc4F)n(C)c(=O)c(C)c32)c1,CHEMBL2103875,,Small molecule,,0,False,0,True,1,False,False,False,615.0778804360001
+ZINC OLEATE,CCCCCCCC/C=C\CCCCCCCC(=O)[O-].CCCCCCCC/C=C\CCCCCCCC(=O)[O-].[Zn+2],CHEMBL3833362,,Small molecule,,0,False,0,True,0,False,False,False,626.4252527919999
+LERCANIDIPINE HYDROCHLORIDE,COC(=O)C1=C(C)NC(C)=C(C(=O)OC(C)(C)CN(C)CCC(c2ccccc2)c2ccccc2)C1c1cccc([N+](=O)[O-])c1.Cl,CHEMBL2106419,,Small molecule,,0,False,0,True,0,False,False,False,647.2762137440002
+PHYSOSTIGMINE SULFATE,CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C.CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C.O=S(=O)(O)O,CHEMBL2105891,,Small molecule,Cholinergic (ophthalmic),0,False,0,True,0,False,False,False,648.2941333680001
+ALCURONIUM,C=CC[N@@+]12CC[C@@]34c5ccccc5N5/C=C6/[C@H]7C[C@H]8[C@@]9(CC[N@@+]8(CC=C)C/C7=C/CO)c7ccccc7N(/C=C(/[C@@H](C[C@@H]31)/C(=C\CO)C2)[C@H]54)[C@@H]69,CHEMBL3305985,,Small molecule,,0,False,0,True,1,False,False,False,666.3922796801801
+ALMITRINE MESYLATE,C=CCNc1nc(NCC=C)nc(N2CCN(C(c3ccc(F)cc3)c3ccc(F)cc3)CC2)n1.CS(=O)(=O)O.CS(=O)(=O)O,CHEMBL3181957,,Small molecule,,0,False,0,True,0,False,False,False,669.2214803440002
+TEMOPORFIN,Oc1cccc(-c2c3nc(c(-c4cccc(O)c4)c4ccc([nH]4)c(-c4cccc(O)c4)c4ccc([nH]4)c(-c4cccc(O)c4)c4nc2CC4)C=C3)c1,CHEMBL383675,,Small molecule,Antineoplastic,0,False,0,True,1,False,False,False,680.2423555040001
+PREDNISOLONE STEAGLATE,CCCCCCCCCCCCCCCCCC(=O)OCC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C,CHEMBL2105774,,Small molecule,,0,False,0,True,1,False,False,False,684.4601190079999
+HYOSCYAMINE SULFATE,CN1[C@@H]2CC[C@H]1C[C@@H](OC(=O)[C@H](CO)c1ccccc1)C2.CN1[C@@H]2CC[C@H]1C[C@@H](OC(=O)[C@H](CO)c1ccccc1)C2.O.O.O=S(=O)(O)O,CHEMBL3989570,,Small molecule,,0,False,0,True,0,False,False,False,712.3240961040001
+PIPOTIAZINE PALMITATE,CCCCCCCCCCCCCCCC(=O)OCCC1CCN(CCCN2c3ccccc3Sc3ccc(S(=O)(=O)N(C)C)cc32)CC1,CHEMBL2106439,,Small molecule,Antipsychotic,0,False,0,True,0,False,False,False,713.425999496
+OUABAIN,C[C@@H]1O[C@@H](O[C@H]2C[C@@H](O)[C@]3(CO)[C@H]4[C@H](O)C[C@]5(C)[C@@H](C6=CC(=O)OC6)CC[C@]5(O)[C@@H]4CC[C@]3(O)C2)[C@H](O)[C@H](O)[C@H]1O.O.O.O.O.O.O.O.O,CHEMBL1889436,,Small molecule,,0,False,0,True,1,False,False,False,728.3677943200001
+ALCURONIUM CHLORIDE,C=CC[N@@+]12CC[C@@]34c5ccccc5N5/C=C6/[C@H]7C[C@H]8[C@@]9(CC[N@@+]8(CC=C)C/C7=C/CO)c7ccccc7N(/C=C(/[C@@H](C[C@@H]31)/C(=C\CO)C2)[C@H]54)[C@@H]69.[Cl-].[Cl-],CHEMBL3188339,,Small molecule,,0,False,0,True,1,False,False,False,736.3310822000001
+VINDESINE,CC[C@]1(O)C[C@@H]2CN(CCc3c([nH]c4ccccc34)[C@@](C(=O)OC)(c3cc4c(cc3OC)N(C)[C@H]3[C@@](O)(C(N)=O)[C@H](O)[C@]5(CC)C=CCN6CC[C@]43[C@@H]65)C2)C1,CHEMBL238071,,Small molecule,,0,False,0,True,1,False,False,False,753.4101490999998
+XAMOTEROL FUMARATE,O=C(NCCNCC(O)COc1ccc(O)cc1)N1CCOCC1.O=C(NCCNCC(O)COc1ccc(O)cc1)N1CCOCC1.O=C(O)/C=C/C(=O)O,CHEMBL1329567,,Small molecule,,0,False,0,True,0,False,False,False,794.3698004080002
+METILDIGOXIN,CO[C@H]1[C@@H](O)C[C@H](O[C@H]2[C@@H](O)C[C@H](O[C@H]3[C@@H](O)C[C@H](O[C@H]4CC[C@@]5(C)[C@H](CC[C@@H]6[C@@H]5C[C@@H](O)[C@]5(C)[C@@H](C7=CC(=O)OC7)CC[C@]65O)C4)O[C@@H]3C)O[C@@H]2C)O[C@@H]1C,CHEMBL1697843,,Small molecule,,0,False,0,True,1,False,False,False,794.4452567920001
+VINFLUNINE,CC[C@]12C=CCN3CC[C@@]4(c5cc([C@@]6(C(=O)OC)C[C@@H]7C[C@@H](C(C)(F)F)CN(Cc8c6[nH]c6ccccc86)C7)c(OC)cc5N(C)[C@H]4[C@@](O)(C(=O)OC)[C@@H]1OC(C)=O)[C@@H]32,CHEMBL2110725,,Small molecule,,0,False,0,True,1,False,False,False,816.3909711280003
+ROXITHROMYCIN,CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(O)C[C@@H](C)/C(=N\OCOCCOC)[C@H](C)[C@@H](O)[C@]1(C)O,CHEMBL1214185,,Small molecule,Antibacterial,0,False,0,True,1,False,False,False,836.524569732
+SPIRAMYCIN,CO[C@@H]1[C@@H](O[C@@H]2O[C@H](C)[C@@H](O[C@H]3C[C@@](C)(O)[C@@H](O)[C@H](C)O3)[C@H](N(C)C)[C@H]2O)[C@@H](CC=O)C[C@@H](C)[C@@H](O[C@H]2CC[C@H](N(C)C)[C@@H](C)O2)/C=C/C=C/C[C@@H](C)OC(=O)C[C@H]1O,CHEMBL453514,,Small molecule,,0,False,0,True,1,False,False,False,842.5140050480001
+VINDESINE SULFATE,CC[C@]1(O)C[C@@H]2CN(CCc3c([nH]c4ccccc34)[C@@](C(=O)OC)(c3cc4c(cc3OC)N(C)[C@H]3[C@@](O)(C(N)=O)[C@H](O)[C@]5(CC)C=CCN6CC[C@]43[C@@H]65)C2)C1.O=S(=O)(O)O,CHEMBL3989543,,Small molecule,,0,False,0,True,1,False,False,False,851.377528644
+CYCLOGUANIL PAMOATE,CC1(C)N=C(N)N=C(N)N1c1ccc(Cl)cc1.CC1(C)N=C(N)N=C(N)N1c1ccc(Cl)cc1.O=C(O)c1cc2ccccc2c(Cc2c(O)c(C(=O)O)cc3ccccc23)c1O,CHEMBL3989825,,Small molecule,,0,False,0,True,0,True,False,False,890.2822344880002
+LENACAPAVIR,CC(C)(C#Cc1ccc(-c2ccc(Cl)c3c(NS(C)(=O)=O)nn(CC(F)(F)F)c23)c([C@H](Cc2cc(F)cc(F)c2)NC(=O)Cn2nc(C(F)(F)F)c3c2C(F)(F)[C@@H]2C[C@H]32)n1)S(C)(=O)=O,CHEMBL4594438,,Small molecule,,0,False,0,True,0,False,False,False,967.1435190039999
+LANATOSIDE C,CC(=O)O[C@H]1C[C@H](O[C@H]2[C@@H](O)C[C@H](O[C@H]3[C@@H](O)C[C@H](O[C@H]4CC[C@@]5(C)[C@H](CC[C@@H]6[C@@H]5C[C@@H](O)[C@]5(C)[C@@H](C7=CC(=O)OC7)CC[C@]65O)C4)O[C@@H]3C)O[C@@H]2C)O[C@H](C)[C@H]1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O,CHEMBL506569,,Small molecule,,0,False,0,True,1,False,False,False,984.4929948320002
+MIFAMURTIDE,CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OCCNC(=O)[C@H](C)NC(=O)CC[C@@H](NC(=O)[C@H](C)NC(=O)[C@@H](C)O[C@H]1[C@H](O)[C@@H](CO)OC(O)[C@@H]1NC(C)=O)C(N)=O)OC(=O)CCCCCCCCCCCCCCC,CHEMBL2111100,,Small molecule,,0,False,0,True,1,False,False,False,1236.7485118980003
+MIFAMURTIDE,CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCCNC(=O)[C@H](C)NC(=O)CC[C@@H](NC(=O)[C@H](C)NC(=O)[C@@H](C)O[C@H]1[C@H](O)[C@@H](CO)OC(O)[C@@H]1NC(C)=O)C(N)=O)OC(=O)CCCCCCCCCCCCCCC.O.[Na+],CHEMBL2107354,,Small molecule,,0,False,0,True,1,False,False,False,1276.74102083
+MIKAMYCIN,CC1=C\[C@@H](O)CC(=O)Cc2nc(co2)C(=O)N2CCC=C2C(=O)O[C@H](C(C)C)[C@H](C)/C=C/C(=O)NC\C=C\1.CC[C@H]1NC(=O)[C@@H](NC(=O)c2ncccc2O)[C@@H](C)OC(=O)[C@H](c2ccccc2)NC(=O)[C@@H]2CC(=O)CCN2C(=O)[C@H](Cc2ccc(N(C)C)cc2)N(C)C(=O)[C@@H]2CCCN2C1=O,CHEMBL2146161,,Small molecule,,0,False,0,True,1,False,False,False,1391.6437903879998
