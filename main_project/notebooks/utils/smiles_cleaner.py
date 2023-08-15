@@ -8,15 +8,18 @@ def neutralize_standardize_atoms(mol):
     at_matches = mol.GetSubstructMatches(pattern)
     at_matches_list = [y[0] for y in at_matches]
 
-    if len(at_matches_list) > 0:
-        for at_idx in at_matches_list:
-            atom = mol.GetAtomWithIdx(at_idx)
-            chg = atom.GetFormalCharge()
-            hcount = atom.GetTotalNumHs()
-            atom.SetFormalCharge(0)
-            atom.SetNumExplicitHs(hcount - chg)
-            atom.UpdatePropertyCache()
-    return Chem.MolToSmiles(mol) # Isso aqui já canoniza os SMILES?
+    try:
+        if len(at_matches_list) > 0:
+            for at_idx in at_matches_list:
+                atom = mol.GetAtomWithIdx(at_idx)
+                chg = atom.GetFormalCharge()
+                hcount = atom.GetTotalNumHs()
+                atom.SetFormalCharge(0)
+                atom.SetNumExplicitHs(hcount - chg)
+                atom.UpdatePropertyCache()
+        return Chem.MolToSmiles(mol) # Isso aqui já canoniza os SMILES?
+    except:
+        return 'cant be neutralized'
 
 
 class SmilesCleaner:
@@ -80,7 +83,7 @@ class SmilesCleaner:
     def search_duplicate(self, smiles_col, keep_inchi=False):
         # Dependendo da funcao, ja dropar
         """
-        Drop duplicate molecules based on their SMILES or InChI.
+        Search duplicate molecules based on their SMILES or InChI.
 
         Parameters:
             smiles_col (str): Name of the column containing SMILES strings.
