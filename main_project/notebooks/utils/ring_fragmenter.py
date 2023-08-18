@@ -65,3 +65,49 @@ def get_ring_adjacent(mol):
 
     return rings
 
+
+def get_ring_fragments(list_of_smiles: list, no_rings_list=False) -> pd.DataFrame:
+    """
+    Recieves a list of SMILES and returnas a pd.DataFrame of parent SMILES and the respective Ring Fragment (Ring and Adjacent Atoms).
+    It depends on: get_ring_systems() and get_ring_adjacent() and modules pandas and rdkit;
+
+    Parameters:
+    list_of_smiles: a list of SMILES to be extracte the ring fragments.
+    no_rings_list: can also return the list of SMILES that have no ring on the list.
+    """
+    # empty lists
+    parents_and_fragments = []
+    no_rings = []
+
+    for smiles in list_of_smiles:
+        try:
+            mol = Chem.MolFromSmiles(smiles)
+        except Exception as molConversionError:
+            print(f'It was not possible to convert the structure {smiles} into mol object: {molConversionError}')
+            continue
+        try:
+            # If have no rings the get_ring_systems function returns [0]
+            if get_ring_systems(mol) == [0]:
+                no_rings.append(smiles)
+            else:
+                rings = get_ring_adjacent(mol)
+                for ring in rings:
+                    ring_fragment = Chem.MolToSmiles(
+                                        Chem.MolFromSmiles(
+                                            Chem.MolFragmentToSmiles(mol, atomsToUse=ring)
+                                        )
+                                    )
+                    parent_smiles = smiles
+                    parents_and_fragments.append(
+                        {
+                            'parent_smiles': parent_smiles,
+                            'ring_fragment': ring_fragment
+                        }
+                    )
+        except Exception as ringRetrievalError:
+            print(f'It was not possible to get the ring structures from {smiles}: {ringRetrievalError}')
+    
+    if no_rings_list:
+        return pd.DataFrame.from_dict(parent_smiles), no_rings
+    else:
+        return pd.DataFrame.from_dict(parents_and_fragments)
