@@ -1,3 +1,6 @@
+import pandas as pd
+from sklearn.preprocessing import StandardScaler
+
 def remove_high_corr(df: pd.DataFrame, threshold: float):
   """
     Remove highly correlated variables from a DataFrame.
@@ -28,3 +31,13 @@ def remove_high_corr(df: pd.DataFrame, threshold: float):
   print(f'Number of excluded variables: {len(remove)}')
 
   return df.drop(remove, axis = 1)
+
+
+def scale_variables(df: pd.DataFrame):
+  scaler = StandardScaler()
+  scaled_data_array = scaler.fit_transform(df)
+
+  # Merging the column name with the scale data array
+  scaled_df = pd.DataFrame(scaled_data_array, columns=df.columns)
+
+  return scaled_df
