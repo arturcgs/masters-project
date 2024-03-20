@@ -91,12 +91,12 @@ def best_params_grid(x, y, model_params, n_splits=5, n_repeats=5, scoring='roc_a
         now = strftime("%H:%M", gmtime())
         print(f"Starting Grid Search for {model_name}: {now}")
         clf =  GridSearchCV(mp['model'], mp['params'], cv=cv,
-                                return_train_score=False, scoring=scoring)
+                                return_train_score=True, scoring=scoring)
         clf.fit(x, y)
         scores.append({
             'model': model_name,
             'best_score': clf.best_score_,
-            'best_params': clf.best_params_
+            'best_params': clf.best_params_,
         })
         now = strftime("%H:%M", gmtime())
         print(f"Finished Grid Search for {model_name}: {now}")
@@ -176,3 +176,26 @@ def bart_auc_scorer(y_true, y_pred):
     y_pred = make_label_v(y_pred)
 
     return roc_auc_score(y_true, y_pred)
+
+def get_error_and_auc(model, x, y_true, transform_prob_into_label=False):
+
+    # predict y_pred
+    y_pred = model.predict(x)
+
+    # transform prov into label, if necessary
+    if transform_prob_into_label:
+        make_label_v = np.vectorize(make_label)
+        y_pred = make_label_v(y_pred)
+    
+    # calculate error
+    cm = confusion_matrix(y_true, y_pred)
+    mis_rate = (cm[[1],[0]].flat[0] + cm[[0],[1]].flat[0])/len(y_true)
+
+    # calculate auc
+    auc = roc_auc_score(y_true, y_pred)
+
+    # printing results
+    print(f"Training Misclassification Rate: {mis_rate:.4f}")
+    print(f"Training AUC: {auc:.4f}")
+
+    return mis_rate, auc
