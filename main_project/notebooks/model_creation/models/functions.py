@@ -68,7 +68,7 @@ def scale_variables(df: pd.DataFrame):
 
   return scaled_df
 
-def best_params_grid(x, y, model_params, n_splits=5, n_repeats=10, scoring='roc_auc'):
+def best_params_grid(x, y, model_params, n_splits=5, n_repeats=5, scoring='roc_auc'):
     '''DataFrame, DataFrame, Dictionary, int, int --> DataFrame
 
     -----------------------------------------------------------------------------
