@@ -177,16 +177,20 @@ def bart_auc_scorer(y_true, y_pred):
 
     return roc_auc_score(y_true, y_pred)
 
-def get_error_and_auc(model, x, y_true, transform_prob_into_label=False):
+def get_error_and_auc(model, x, y_true, transform_prob_into_label=False, log_reg=False):
 
-    # predict y_pred
-    y_pred = model.predict(x)
+    if log_reg:
+        # see if I passed y_pred directly as model
+        y_pred = model
+    else:
+        # predict y_pred
+        y_pred = model.predict(x)
 
-    # transform prov into label, if necessary
+    # transform prob into label, if necessary
     if transform_prob_into_label:
         make_label_v = np.vectorize(make_label)
         y_pred = make_label_v(y_pred)
-    
+
     # calculate error
     cm = confusion_matrix(y_true, y_pred)
     mis_rate = (cm[[1],[0]].flat[0] + cm[[0],[1]].flat[0])/len(y_true)
